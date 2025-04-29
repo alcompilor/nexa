@@ -1,0 +1,66 @@
+=== BENCHMARK SUMMARY ===
+
+CONTRACT ADDRESS: 0xd4843722480CAC372ecd4075371579C32e002Df9
+NETWORK: AVALANCHE TESTNET (FUJI)
+EXPLORER: https://testnet.snowtrace.io/address/0xd4843722480CAC372ecd4075371579C32e002Df9
+
+addPatient:
+  Average: 5837.96ms
+  Min: 5333.72ms
+  Max: 9741.87ms
+  Average Gas: 31287
+  Sample Size: 100
+
+revokePatient:
+  Average: 5733.52ms
+  Min: 5332.79ms
+  Max: 9362.31ms
+  Average Gas: 26772
+  Sample Size: 100
+
+addPhysician:
+  Average: 5651.98ms
+  Min: 2944.29ms
+  Max: 7537.94ms
+  Average Gas: 58444
+  Sample Size: 100
+
+revokePhysician:
+  Average: 5745.59ms
+  Min: 5374.14ms
+  Max: 9621.43ms
+  Average Gas: 36892
+  Sample Size: 100
+
+ipfsStorage:
+  Average: 1295.63ms
+  Min: 134.43ms
+  Max: 5656.57ms
+  Sample Size: 1000
+
+addRecord:
+  Average: 5815.76ms
+  Min: 2143.00ms
+  Max: 23929.54ms
+  Average Gas: 558757
+  Sample Size: 1000
+
+getLatestRecord:
+  Average: 335.81ms
+  Min: 174.63ms
+  Max: 5555.89ms
+  Sample Size: 1000
+
+ipfsRetrieve:
+  Average: 1355.48ms
+  Min: 691.83ms
+  Max: 18407.70ms
+  Sample Size: 1000
+
+requestOracleAssistance:
+  Average: 5546.26ms
+  Average Gas: 47282
+
+submitReEncryptedShare:
+  Average: 5450.41ms
+  Average Gas: 30581
