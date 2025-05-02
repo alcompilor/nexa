@@ -27,17 +27,30 @@ https://www.kaggle.com/datasets/alcompilor/synthetic-ehrs-for-benchmarking-syste
 1. Clone the repository:
    ```
    git clone https://github.com/alcompilor/nexa.git
-   cd nexa/hardhat
+   cd nexa/benchmarks
    ```
 
 2. Install dependencies:
    ```
-   npm install
+   pnpm install
    ```
 
-3. Create a `.env` file in the project root with the required environment variables (see below).
+3. Create a `.env` file in the project root with the required environment variables (see below). This is required for `contracts-storage` benchmarking.
 
 4. Create a `dataset` directory containing numbered JSON files (`1.json`, `2.json`, etc.) with sample EHR data.
+
+
+## Usage
+
+1. To benchmark smart contract and IPFS storage (`.env` required):
+   ```
+   pnpm run test:contracts-storage
+   ```
+
+2. To benchmark cryptographic operations:
+   ```
+   pnpm run test:cryptography
+   ```
 
 ## Environment Variables
 
@@ -106,16 +119,6 @@ AVALANCHE_TESTNET_RPC_URL
 | Variable | Description |
 |----------|-------------|
 | `AVALANCHE_TESTNET_RPC_URL` | RPC endpoint URL for the Avalanche Fuji testnet (example: "https://api.avax-test.network/ext/bc/C/rpc"). Used to connect to the Avalanche C-Chain for contract deployment and transactions. Can be customized to use other RPC providers or local nodes if needed. |
-
-## Usage
-
-Run the benchmarking suite:
-
-```
-npx hardhat test ./benchmark/benchmark.ts
-```
-
-Results will be saved to a time-stamped JSON file in the project root directory and summary statistics will be displayed in the console.
 
 ## Security Notes
 

@@ -31,7 +31,7 @@ import {
 } from "@aws-sdk/client-s3";
 
 // Local modules/artifacts
-import NexaEHR from "../artifacts/contracts/NexaEHR.sol/NexaEHR.json";
+import NexaEHR from "../NexaEHR.json";
 
 // Load environment variables from .env file
 dotenv.config();
@@ -673,22 +673,25 @@ describe("NexaEHR Benchmarking on Avalanche Fuji", function () {
      * Saves benchmark results and generates summary statistics
      */
     after(function () {
+        const timestamp = new Date().toISOString().replace(/:/g, "-");
         // Save benchmark results to file with timestamp
-        const resultsPath = `./benchmark-results-${new Date()
-            .toISOString()
-            .replace(/:/g, "-")}.json`;
+        const resultsPath = `${__dirname}/benchmark-results-${timestamp}.json`;
         fs.writeFileSync(
             resultsPath,
             JSON.stringify(benchmarkResults, null, 2)
         );
         console.log(`Benchmark results saved to ${resultsPath}`);
 
-        // Generate summary statistics
-        console.log("\n=== BENCHMARK SUMMARY ===");
+        const summaryLines: string[] = [];
+        function logBoth(message: string) {
+            console.log(message);
+            summaryLines.push(message);
+        }
+
+        logBoth("\n=== BENCHMARK SUMMARY ===");
 
         Object.entries(benchmarkResults.operationMetrics).forEach(
             ([operation, metrics]) => {
-                // Calculate duration statistics
                 const durations = metrics.map((m) => m.duration);
                 const avg =
                     durations.reduce((sum, val) => sum + val, 0) /
@@ -696,20 +699,26 @@ describe("NexaEHR Benchmarking on Avalanche Fuji", function () {
                 const min = Math.min(...durations);
                 const max = Math.max(...durations);
 
-                console.log(`\n${operation}:`);
-                console.log(`  Average: ${avg.toFixed(2)}ms`);
-                console.log(`  Min: ${min.toFixed(2)}ms`);
-                console.log(`  Max: ${max.toFixed(2)}ms`);
+                logBoth(`\n${operation}:`);
+                logBoth(`  Average: ${avg.toFixed(2)}ms`);
+                logBoth(`  Min: ${min.toFixed(2)}ms`);
+                logBoth(`  Max: ${max.toFixed(2)}ms`);
 
-                // Calculate gas usage statistics if available
                 if (metrics[0].gasUsed) {
                     const gasUsed = metrics.map((m) => parseInt(m.gasUsed!));
                     const avgGas =
                         gasUsed.reduce((sum, val) => sum + val, 0) /
                         gasUsed.length;
-                    console.log(`  Average Gas: ${avgGas.toFixed(0)}`);
+                    logBoth(`  Average Gas: ${avgGas.toFixed(0)}`);
                 }
             }
+        );
+
+        // Save summary to file
+        fs.writeFileSync(
+            `${__dirname}/benchmark-summary-${timestamp}`,
+            summaryLines.join("\n"),
+            "utf-8"
         );
     });
 });

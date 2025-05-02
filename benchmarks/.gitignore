@@ -1,0 +1,51 @@
+# Node modules
+node_modules/
+
+# Dependency directories
+.pnpm/
+.pnp.*
+package-lock.json
+yarn.lock
+
+# Build output
+dist/
+build/
+lib/
+
+# TypeScript
+*.tsbuildinfo
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Test output
+coverage/
+.nyc_output/
+
+# Mocha cache
+.mocha_cache/
+
+# IDEs and editors
+.idea/
+*.sw?
+
+# Optional: output from benchmark/test runs
+*.bench.*
+*.test.*
