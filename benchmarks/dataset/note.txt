@@ -1,0 +1,2 @@
+Dataset for benchmarking can be downloaded from Kaggle:
+https://www.kaggle.com/datasets/alcompilor/synthetic-ehrs-for-benchmarking-system-perfomance

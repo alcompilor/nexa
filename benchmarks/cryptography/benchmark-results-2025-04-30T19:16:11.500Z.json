@@ -1,0 +1,6004 @@
+{
+  "files": [
+    {
+      "fileId": "Record 1",
+      "encryptDuration": 405.60524999999996,
+      "decryptDuration": 379.3828229999999,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 2",
+      "encryptDuration": 242.79040800000007,
+      "decryptDuration": 224.12183099999993,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 3",
+      "encryptDuration": 220.97161600000004,
+      "decryptDuration": 211.27032700000018,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 4",
+      "encryptDuration": 217.47933600000033,
+      "decryptDuration": 206.72812599999997,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 5",
+      "encryptDuration": 217.04275199999984,
+      "decryptDuration": 201.52682099999993,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 6",
+      "encryptDuration": 199.38840600000003,
+      "decryptDuration": 185.06383000000005,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 7",
+      "encryptDuration": 194.7091449999998,
+      "decryptDuration": 180.6200899999999,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 8",
+      "encryptDuration": 187.8546470000001,
+      "decryptDuration": 172.82408699999996,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 9",
+      "encryptDuration": 181.33182899999974,
+      "decryptDuration": 174.1539730000004,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 10",
+      "encryptDuration": 179.15042099999937,
+      "decryptDuration": 168.89986399999998,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 11",
+      "encryptDuration": 184.02216599999974,
+      "decryptDuration": 168.8615980000004,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 12",
+      "encryptDuration": 177.91699100000005,
+      "decryptDuration": 165.37238700000034,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 13",
+      "encryptDuration": 173.37450700000045,
+      "decryptDuration": 159.6991590000007,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 14",
+      "encryptDuration": 161.83445500000016,
+      "decryptDuration": 153.0046000000002,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 15",
+      "encryptDuration": 153.77111400000013,
+      "decryptDuration": 147.1882599999999,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 16",
+      "encryptDuration": 147.2345030000006,
+      "decryptDuration": 134.9861890000002,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 17",
+      "encryptDuration": 146.69622999999956,
+      "decryptDuration": 134.62111300000015,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 18",
+      "encryptDuration": 147.11051900000075,
+      "decryptDuration": 135.10449199999948,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 19",
+      "encryptDuration": 139.9639390000002,
+      "decryptDuration": 128.70228099999986,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 20",
+      "encryptDuration": 142.03747099999964,
+      "decryptDuration": 129.43877600000087,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 21",
+      "encryptDuration": 137.51217199999883,
+      "decryptDuration": 127.912452999999,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 22",
+      "encryptDuration": 133.5077450000008,
+      "decryptDuration": 134.49701900000036,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 23",
+      "encryptDuration": 127.57338200000049,
+      "decryptDuration": 121.39314399999967,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 24",
+      "encryptDuration": 126.9501739999996,
+      "decryptDuration": 116.39736799999991,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 25",
+      "encryptDuration": 121.08200600000055,
+      "decryptDuration": 120.18959100000029,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 26",
+      "encryptDuration": 124.61144199999944,
+      "decryptDuration": 112.56167199999982,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 27",
+      "encryptDuration": 127.69588399999884,
+      "decryptDuration": 113.78425299999981,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 28",
+      "encryptDuration": 119.16299700000127,
+      "decryptDuration": 110.89085100000011,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 29",
+      "encryptDuration": 119.82990299999983,
+      "decryptDuration": 109.52705799999967,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 30",
+      "encryptDuration": 119.99948100000074,
+      "decryptDuration": 105.05045400000017,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 31",
+      "encryptDuration": 109.24137599999995,
+      "decryptDuration": 100.75646299999971,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 32",
+      "encryptDuration": 112.97709799999939,
+      "decryptDuration": 98.14323499999955,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 33",
+      "encryptDuration": 107.53548899999987,
+      "decryptDuration": 96.71164800000042,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 34",
+      "encryptDuration": 107.34553699999924,
+      "decryptDuration": 93.33672900000056,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 35",
+      "encryptDuration": 101.18157200000132,
+      "decryptDuration": 93.91338400000132,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 36",
+      "encryptDuration": 101.51087999999982,
+      "decryptDuration": 91.59272200000123,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 37",
+      "encryptDuration": 98.76655900000151,
+      "decryptDuration": 99.81707500000084,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 38",
+      "encryptDuration": 100.74084699999912,
+      "decryptDuration": 90.64349100000072,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 39",
+      "encryptDuration": 96.35164100000111,
+      "decryptDuration": 89.95583999999872,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 40",
+      "encryptDuration": 96.6395420000008,
+      "decryptDuration": 85.23298800000157,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 41",
+      "encryptDuration": 92.92758999999933,
+      "decryptDuration": 91.20000099999925,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 42",
+      "encryptDuration": 98.08747799999946,
+      "decryptDuration": 85.09654799999953,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 43",
+      "encryptDuration": 87.06736799999999,
+      "decryptDuration": 82.64812700000039,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 44",
+      "encryptDuration": 84.40121799999906,
+      "decryptDuration": 77.9668189999993,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 45",
+      "encryptDuration": 82.18544800000018,
+      "decryptDuration": 77.19869499999913,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 46",
+      "encryptDuration": 86.18807000000015,
+      "decryptDuration": 73.76227900000049,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 47",
+      "encryptDuration": 79.71672500000022,
+      "decryptDuration": 72.83173799999895,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 48",
+      "encryptDuration": 78.92972100000043,
+      "decryptDuration": 79.63219799999933,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 49",
+      "encryptDuration": 74.00124199999846,
+      "decryptDuration": 67.19188700000086,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 50",
+      "encryptDuration": 71.10211499999969,
+      "decryptDuration": 68.54342800000086,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 51",
+      "encryptDuration": 75.39692400000058,
+      "decryptDuration": 63.96432300000015,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 52",
+      "encryptDuration": 71.88881700000093,
+      "decryptDuration": 64.14112800000112,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 53",
+      "encryptDuration": 69.58373500000016,
+      "decryptDuration": 60.330636000000595,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 54",
+      "encryptDuration": 67.19072500000038,
+      "decryptDuration": 59.593761000000086,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 55",
+      "encryptDuration": 62.46234999999979,
+      "decryptDuration": 56.82725300000129,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 56",
+      "encryptDuration": 60.23468300000059,
+      "decryptDuration": 53.66790899999978,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 57",
+      "encryptDuration": 61.96095999999852,
+      "decryptDuration": 53.46067799999946,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 58",
+      "encryptDuration": 60.448976000001494,
+      "decryptDuration": 51.72987199999989,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 59",
+      "encryptDuration": 56.978697000000466,
+      "decryptDuration": 51.067055000001346,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 60",
+      "encryptDuration": 58.81112900000153,
+      "decryptDuration": 50.316273000000365,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 61",
+      "encryptDuration": 57.02391500000158,
+      "decryptDuration": 49.49595199999749,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 62",
+      "encryptDuration": 53.204524000000674,
+      "decryptDuration": 44.444117999999435,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 63",
+      "encryptDuration": 54.5227100000011,
+      "decryptDuration": 44.38131499999872,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 64",
+      "encryptDuration": 52.02604900000006,
+      "decryptDuration": 43.720101999999315,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 65",
+      "encryptDuration": 50.95548500000223,
+      "decryptDuration": 42.888960000000225,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 66",
+      "encryptDuration": 50.63074899999992,
+      "decryptDuration": 42.43716000000131,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 67",
+      "encryptDuration": 49.19936699999744,
+      "decryptDuration": 41.30354200000147,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 68",
+      "encryptDuration": 47.56314100000236,
+      "decryptDuration": 39.475697000001674,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 69",
+      "encryptDuration": 48.85433499999999,
+      "decryptDuration": 38.942204999999376,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 70",
+      "encryptDuration": 45.9741240000003,
+      "decryptDuration": 37.84297599999991,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 71",
+      "encryptDuration": 44.53020400000241,
+      "decryptDuration": 36.736994000002596,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 72",
+      "encryptDuration": 45.55871099999786,
+      "decryptDuration": 36.74492900000041,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 73",
+      "encryptDuration": 45.468809999998484,
+      "decryptDuration": 36.39676099999997,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 74",
+      "encryptDuration": 44.278636999999435,
+      "decryptDuration": 35.86954400000104,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 75",
+      "encryptDuration": 44.06707599999936,
+      "decryptDuration": 36.10257800000181,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 76",
+      "encryptDuration": 44.072244999999384,
+      "decryptDuration": 34.7593850000012,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 77",
+      "encryptDuration": 41.615436000000045,
+      "decryptDuration": 33.887470999998186,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 78",
+      "encryptDuration": 42.32702699999936,
+      "decryptDuration": 33.79616099999839,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 79",
+      "encryptDuration": 41.03511100000105,
+      "decryptDuration": 33.18995200000063,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 80",
+      "encryptDuration": 42.299017999997886,
+      "decryptDuration": 34.02502000000095,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 81",
+      "encryptDuration": 42.0267359999998,
+      "decryptDuration": 32.736391000002186,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 82",
+      "encryptDuration": 40.85732100000314,
+      "decryptDuration": 32.94038100000034,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 83",
+      "encryptDuration": 40.162420000000566,
+      "decryptDuration": 32.17124999999942,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 84",
+      "encryptDuration": 40.039160000000265,
+      "decryptDuration": 30.86128099999769,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 85",
+      "encryptDuration": 39.18142599999919,
+      "decryptDuration": 32.09358699999939,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 86",
+      "encryptDuration": 36.83286899999803,
+      "decryptDuration": 30.240175000002637,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 87",
+      "encryptDuration": 39.148683999999776,
+      "decryptDuration": 30.32749899999908,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 88",
+      "encryptDuration": 37.852506000002904,
+      "decryptDuration": 29.975024999999732,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 89",
+      "encryptDuration": 38.35605000000214,
+      "decryptDuration": 29.900716000000102,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 90",
+      "encryptDuration": 37.803640999998606,
+      "decryptDuration": 28.718730999997206,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 91",
+      "encryptDuration": 33.728751000002376,
+      "decryptDuration": 29.080783000001247,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 92",
+      "encryptDuration": 34.52087599999868,
+      "decryptDuration": 27.489205000001675,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 93",
+      "encryptDuration": 35.00491899999906,
+      "decryptDuration": 28.423408000002382,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 94",
+      "encryptDuration": 34.4162789999973,
+      "decryptDuration": 27.3587329999973,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 95",
+      "encryptDuration": 32.29617899999721,
+      "decryptDuration": 27.76841599999898,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 96",
+      "encryptDuration": 34.21382099999755,
+      "decryptDuration": 27.524578000000474,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 97",
+      "encryptDuration": 32.51288300000306,
+      "decryptDuration": 27.725178000000597,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 98",
+      "encryptDuration": 33.427035000000615,
+      "decryptDuration": 26.62032200000249,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 99",
+      "encryptDuration": 31.760005000000092,
+      "decryptDuration": 27.202454999998736,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 100",
+      "encryptDuration": 33.41198599999916,
+      "decryptDuration": 26.096357999998872,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 101",
+      "encryptDuration": 31.634860999998637,
+      "decryptDuration": 27.03724300000249,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 102",
+      "encryptDuration": 33.617088999999396,
+      "decryptDuration": 25.815574000000197,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 103",
+      "encryptDuration": 31.543556000000535,
+      "decryptDuration": 26.651072000000568,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 104",
+      "encryptDuration": 32.60734400000001,
+      "decryptDuration": 26.57332200000019,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 105",
+      "encryptDuration": 33.66067900000053,
+      "decryptDuration": 25.888324999999895,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 106",
+      "encryptDuration": 30.84346600000208,
+      "decryptDuration": 26.12289199999941,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 107",
+      "encryptDuration": 31.639405999998417,
+      "decryptDuration": 25.373412000000826,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 108",
+      "encryptDuration": 33.19784199999776,
+      "decryptDuration": 25.854340999998385,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 109",
+      "encryptDuration": 33.71157099999982,
+      "decryptDuration": 24.683774000000994,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 110",
+      "encryptDuration": 29.915526999997383,
+      "decryptDuration": 25.516357000000426,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 111",
+      "encryptDuration": 30.023786999998265,
+      "decryptDuration": 24.466576000002533,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 112",
+      "encryptDuration": 31.56889299999966,
+      "decryptDuration": 25.155193999999028,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 113",
+      "encryptDuration": 32.534724000001006,
+      "decryptDuration": 24.889189000001352,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 114",
+      "encryptDuration": 29.83155899999838,
+      "decryptDuration": 25.302048999998078,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 115",
+      "encryptDuration": 32.218927999998414,
+      "decryptDuration": 24.557096000000456,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 116",
+      "encryptDuration": 29.108901000003243,
+      "decryptDuration": 25.050469000001613,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 117",
+      "encryptDuration": 29.975799000003462,
+      "decryptDuration": 23.890085000002728,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 118",
+      "encryptDuration": 29.13469299999997,
+      "decryptDuration": 24.694750000002387,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 119",
+      "encryptDuration": 29.10418600000048,
+      "decryptDuration": 23.58404999999766,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 120",
+      "encryptDuration": 28.873576999998477,
+      "decryptDuration": 24.14850899999874,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 121",
+      "encryptDuration": 31.070416000002297,
+      "decryptDuration": 23.294598000000406,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 122",
+      "encryptDuration": 28.243227999999363,
+      "decryptDuration": 24.069563999997627,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 123",
+      "encryptDuration": 30.485795000000508,
+      "decryptDuration": 23.164934999997058,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 124",
+      "encryptDuration": 30.22320099999706,
+      "decryptDuration": 23.641015999997762,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 125",
+      "encryptDuration": 31.335839999999735,
+      "decryptDuration": 22.753927000001568,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 126",
+      "encryptDuration": 27.61181199999919,
+      "decryptDuration": 23.65270800000144,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 127",
+      "encryptDuration": 28.722750999997515,
+      "decryptDuration": 22.174255999998422,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 128",
+      "encryptDuration": 27.33092100000067,
+      "decryptDuration": 23.115045999998983,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 129",
+      "encryptDuration": 29.12630799999897,
+      "decryptDuration": 22.16711700000087,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 130",
+      "encryptDuration": 28.860139000000345,
+      "decryptDuration": 23.025172999998176,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 131",
+      "encryptDuration": 30.593220999999176,
+      "decryptDuration": 21.93696799999816,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 132",
+      "encryptDuration": 27.507830999998987,
+      "decryptDuration": 23.1207379999978,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 133",
+      "encryptDuration": 27.64945699999953,
+      "decryptDuration": 21.995828999999503,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 134",
+      "encryptDuration": 26.67448300000251,
+      "decryptDuration": 23.90313900000183,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 135",
+      "encryptDuration": 27.357115000002523,
+      "decryptDuration": 21.438476999999693,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 136",
+      "encryptDuration": 25.904781000001094,
+      "decryptDuration": 23.24719699999696,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 137",
+      "encryptDuration": 27.671014999999898,
+      "decryptDuration": 21.463874000000942,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 138",
+      "encryptDuration": 26.953882000001613,
+      "decryptDuration": 23.308821999999054,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 139",
+      "encryptDuration": 27.297035000003234,
+      "decryptDuration": 21.596566000000166,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 140",
+      "encryptDuration": 25.167936999998346,
+      "decryptDuration": 23.003034000001207,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 141",
+      "encryptDuration": 27.67149299999801,
+      "decryptDuration": 20.894100000001345,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 142",
+      "encryptDuration": 25.826081000002887,
+      "decryptDuration": 22.20897899999909,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 143",
+      "encryptDuration": 27.800615000000107,
+      "decryptDuration": 21.072417999999743,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 144",
+      "encryptDuration": 25.484120999997685,
+      "decryptDuration": 22.50675499999852,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 145",
+      "encryptDuration": 27.679371000001993,
+      "decryptDuration": 20.638709999999264,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 146",
+      "encryptDuration": 25.206171000001632,
+      "decryptDuration": 22.372659000000567,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 147",
+      "encryptDuration": 27.30728100000124,
+      "decryptDuration": 20.709436000001006,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 148",
+      "encryptDuration": 26.161090999998123,
+      "decryptDuration": 21.33524799999941,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 149",
+      "encryptDuration": 27.772907999999006,
+      "decryptDuration": 20.3863760000022,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 150",
+      "encryptDuration": 26.72168899999815,
+      "decryptDuration": 21.945222000002104,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 151",
+      "encryptDuration": 27.0607600000003,
+      "decryptDuration": 20.210724000000482,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 152",
+      "encryptDuration": 24.253833999999188,
+      "decryptDuration": 22.04657600000064,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 153",
+      "encryptDuration": 26.273222000003443,
+      "decryptDuration": 20.04391300000134,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 154",
+      "encryptDuration": 24.154782000001433,
+      "decryptDuration": 21.83150399999795,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 155",
+      "encryptDuration": 26.671136000000843,
+      "decryptDuration": 19.679097000000183,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 156",
+      "encryptDuration": 24.77622700000211,
+      "decryptDuration": 21.540540000001783,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 157",
+      "encryptDuration": 26.51233200000206,
+      "decryptDuration": 19.67300400000022,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 158",
+      "encryptDuration": 24.025888000000123,
+      "decryptDuration": 21.453293999999005,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 159",
+      "encryptDuration": 26.881093999996665,
+      "decryptDuration": 19.5641140000007,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 160",
+      "encryptDuration": 24.673995999997715,
+      "decryptDuration": 20.780523000001267,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 161",
+      "encryptDuration": 26.041603999998188,
+      "decryptDuration": 19.401883999998972,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 162",
+      "encryptDuration": 24.283618999997998,
+      "decryptDuration": 20.696295999998256,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 163",
+      "encryptDuration": 26.16716699999961,
+      "decryptDuration": 19.84208900000158,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 164",
+      "encryptDuration": 24.407138999999006,
+      "decryptDuration": 21.011695000001055,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 165",
+      "encryptDuration": 26.640722000000096,
+      "decryptDuration": 18.99603399999978,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 166",
+      "encryptDuration": 23.584475999999995,
+      "decryptDuration": 20.944608000001608,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 167",
+      "encryptDuration": 26.67902200000026,
+      "decryptDuration": 19.089538000000175,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 168",
+      "encryptDuration": 23.388136999998096,
+      "decryptDuration": 20.52282500000001,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 169",
+      "encryptDuration": 25.612185000001773,
+      "decryptDuration": 19.333902999998827,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 170",
+      "encryptDuration": 23.28893099999914,
+      "decryptDuration": 20.880457999999635,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 171",
+      "encryptDuration": 26.286442000000534,
+      "decryptDuration": 19.082734999999957,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 172",
+      "encryptDuration": 23.49449900000036,
+      "decryptDuration": 19.10578700000042,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 173",
+      "encryptDuration": 25.694384999998874,
+      "decryptDuration": 19.420053999998345,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 174",
+      "encryptDuration": 25.44012699999803,
+      "decryptDuration": 18.281605000000127,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 175",
+      "encryptDuration": 23.43816599999991,
+      "decryptDuration": 19.037483000000066,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 176",
+      "encryptDuration": 25.406888000001345,
+      "decryptDuration": 18.813755999999557,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 177",
+      "encryptDuration": 25.623249999996915,
+      "decryptDuration": 18.111847000000125,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 178",
+      "encryptDuration": 22.495623999999225,
+      "decryptDuration": 18.490170999997645,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 179",
+      "encryptDuration": 25.277900999997655,
+      "decryptDuration": 19.03993199999968,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 180",
+      "encryptDuration": 25.348305999999866,
+      "decryptDuration": 18.242565000000468,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 181",
+      "encryptDuration": 22.328248999998323,
+      "decryptDuration": 18.733045000000857,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 182",
+      "encryptDuration": 24.99223500000153,
+      "decryptDuration": 18.63683300000048,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 183",
+      "encryptDuration": 24.97311500000069,
+      "decryptDuration": 18.396519000001717,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 184",
+      "encryptDuration": 22.281990000003134,
+      "decryptDuration": 18.215015999998286,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 185",
+      "encryptDuration": 24.192691000000195,
+      "decryptDuration": 18.637954000001628,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 186",
+      "encryptDuration": 24.721020999997563,
+      "decryptDuration": 17.64665099999911,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 187",
+      "encryptDuration": 21.905541000000085,
+      "decryptDuration": 18.742637999999715,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 188",
+      "encryptDuration": 24.976371000000654,
+      "decryptDuration": 18.287058000001707,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 189",
+      "encryptDuration": 24.654958999999508,
+      "decryptDuration": 17.513569999999163,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 190",
+      "encryptDuration": 21.875490999998874,
+      "decryptDuration": 19.58821800000078,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 191",
+      "encryptDuration": 24.669120999998995,
+      "decryptDuration": 17.585103999997955,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 192",
+      "encryptDuration": 22.49319000000105,
+      "decryptDuration": 17.917179999996733,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 193",
+      "encryptDuration": 24.55566800000088,
+      "decryptDuration": 18.524506999998266,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 194",
+      "encryptDuration": 24.57271700000274,
+      "decryptDuration": 17.505896999999095,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 195",
+      "encryptDuration": 21.711434000000736,
+      "decryptDuration": 17.816431999999622,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 196",
+      "encryptDuration": 24.469786000001477,
+      "decryptDuration": 18.06477300000188,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 197",
+      "encryptDuration": 24.344152000001486,
+      "decryptDuration": 17.362278000000515,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 198",
+      "encryptDuration": 21.6276480000015,
+      "decryptDuration": 17.69741100000101,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 199",
+      "encryptDuration": 24.22160900000017,
+      "decryptDuration": 18.374205000000075,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 200",
+      "encryptDuration": 23.930105999999796,
+      "decryptDuration": 17.45786500000031,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 201",
+      "encryptDuration": 21.989463000001706,
+      "decryptDuration": 17.821325999997498,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 202",
+      "encryptDuration": 23.948084999999992,
+      "decryptDuration": 18.0721850000009,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 203",
+      "encryptDuration": 24.17461700000058,
+      "decryptDuration": 17.368787000003067,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 204",
+      "encryptDuration": 21.442924999999377,
+      "decryptDuration": 17.668274999999994,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 205",
+      "encryptDuration": 24.687721999998757,
+      "decryptDuration": 17.77128399999856,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 206",
+      "encryptDuration": 23.741202000001067,
+      "decryptDuration": 17.361119000001054,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 207",
+      "encryptDuration": 21.516176999997697,
+      "decryptDuration": 17.591620999999577,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 208",
+      "encryptDuration": 23.605079000000842,
+      "decryptDuration": 17.54059199999756,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 209",
+      "encryptDuration": 23.19838200000231,
+      "decryptDuration": 17.091152000000875,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 210",
+      "encryptDuration": 21.399078999998892,
+      "decryptDuration": 17.815252000000328,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 211",
+      "encryptDuration": 23.21367199999804,
+      "decryptDuration": 17.641614000000118,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 212",
+      "encryptDuration": 23.561044000001857,
+      "decryptDuration": 17.018734000001132,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 213",
+      "encryptDuration": 21.04858400000012,
+      "decryptDuration": 16.96840599999996,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 214",
+      "encryptDuration": 23.862168999999994,
+      "decryptDuration": 17.459979999999632,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 215",
+      "encryptDuration": 23.69042199999967,
+      "decryptDuration": 17.06729500000074,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 216",
+      "encryptDuration": 21.03440000000046,
+      "decryptDuration": 17.017219000001205,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 217",
+      "encryptDuration": 23.662978000000294,
+      "decryptDuration": 17.455493999997998,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 218",
+      "encryptDuration": 23.458550999999716,
+      "decryptDuration": 17.24887200000012,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 219",
+      "encryptDuration": 21.242489000000205,
+      "decryptDuration": 17.227445000000444,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 220",
+      "encryptDuration": 23.558136999999988,
+      "decryptDuration": 17.364771000000474,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 221",
+      "encryptDuration": 23.37080699999933,
+      "decryptDuration": 17.085815999998886,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 222",
+      "encryptDuration": 21.090298999999504,
+      "decryptDuration": 17.302479999998468,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 223",
+      "encryptDuration": 23.47348300000158,
+      "decryptDuration": 17.349951000000146,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 224",
+      "encryptDuration": 23.172969999999623,
+      "decryptDuration": 16.78122699999949,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 225",
+      "encryptDuration": 20.949227000000974,
+      "decryptDuration": 16.89992799999891,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 226",
+      "encryptDuration": 23.293001000001823,
+      "decryptDuration": 17.588126999999076,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 227",
+      "encryptDuration": 23.58831900000223,
+      "decryptDuration": 16.60294100000101,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 228",
+      "encryptDuration": 20.772704999999405,
+      "decryptDuration": 16.88814999999886,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 229",
+      "encryptDuration": 23.39202899999873,
+      "decryptDuration": 17.034907000001112,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 230",
+      "encryptDuration": 23.26875899999868,
+      "decryptDuration": 16.57898600000044,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 231",
+      "encryptDuration": 20.903943999997864,
+      "decryptDuration": 17.39390000000276,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 232",
+      "encryptDuration": 23.132803000000422,
+      "decryptDuration": 17.463243000001967,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 233",
+      "encryptDuration": 23.557967999997345,
+      "decryptDuration": 16.342349999998987,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 234",
+      "encryptDuration": 20.65312400000039,
+      "decryptDuration": 16.68044000000009,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 235",
+      "encryptDuration": 22.278470000001107,
+      "decryptDuration": 16.701476999998704,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 236",
+      "encryptDuration": 23.270125999999436,
+      "decryptDuration": 16.05266599999959,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 237",
+      "encryptDuration": 20.408604999996896,
+      "decryptDuration": 16.76830500000142,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 238",
+      "encryptDuration": 23.131688000001304,
+      "decryptDuration": 17.139124000001175,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 239",
+      "encryptDuration": 23.24542599999768,
+      "decryptDuration": 16.131046999998944,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 240",
+      "encryptDuration": 20.1612189999978,
+      "decryptDuration": 16.323896000001696,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 241",
+      "encryptDuration": 23.124147999998968,
+      "decryptDuration": 16.933484000001044,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 242",
+      "encryptDuration": 23.06306300000142,
+      "decryptDuration": 15.942093999998178,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 243",
+      "encryptDuration": 20.31997499999852,
+      "decryptDuration": 16.705792000000656,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 244",
+      "encryptDuration": 22.70010700000057,
+      "decryptDuration": 17.100294000003487,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 245",
+      "encryptDuration": 22.96272400000089,
+      "decryptDuration": 15.923996999998053,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 246",
+      "encryptDuration": 20.43713100000241,
+      "decryptDuration": 16.27254499999981,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 247",
+      "encryptDuration": 22.65900099999999,
+      "decryptDuration": 16.561531999999715,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 248",
+      "encryptDuration": 23.072017999998934,
+      "decryptDuration": 15.942868000001909,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 249",
+      "encryptDuration": 20.230287999998836,
+      "decryptDuration": 16.54106700000193,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 250",
+      "encryptDuration": 22.414318999999523,
+      "decryptDuration": 16.957753000002413,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 251",
+      "encryptDuration": 23.251791000002413,
+      "decryptDuration": 15.775654999997641,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 252",
+      "encryptDuration": 20.385757000000012,
+      "decryptDuration": 16.494375999998738,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 253",
+      "encryptDuration": 22.75065800000084,
+      "decryptDuration": 16.56862700000056,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 254",
+      "encryptDuration": 22.993907000000036,
+      "decryptDuration": 15.819321999999374,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 255",
+      "encryptDuration": 20.423714000000473,
+      "decryptDuration": 16.570079000000987,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 256",
+      "encryptDuration": 22.32241100000101,
+      "decryptDuration": 16.629417000000103,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 257",
+      "encryptDuration": 23.01298499999757,
+      "decryptDuration": 15.502236999996967,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 258",
+      "encryptDuration": 20.09364099999948,
+      "decryptDuration": 16.15141399999993,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 259",
+      "encryptDuration": 22.527611000001343,
+      "decryptDuration": 16.437141999998858,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 260",
+      "encryptDuration": 22.736622000000352,
+      "decryptDuration": 15.882767999999487,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 261",
+      "encryptDuration": 20.011803999997937,
+      "decryptDuration": 16.100588000001153,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 262",
+      "encryptDuration": 21.08364900000015,
+      "decryptDuration": 18.056345000000874,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 263",
+      "encryptDuration": 21.544488999999885,
+      "decryptDuration": 15.392287000002398,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 264",
+      "encryptDuration": 21.870097999999416,
+      "decryptDuration": 16.265409999999974,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 265",
+      "encryptDuration": 22.656654000002163,
+      "decryptDuration": 19.042930999999953,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 266",
+      "encryptDuration": 19.823969999997644,
+      "decryptDuration": 15.369202000001678,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 267",
+      "encryptDuration": 21.038565000002563,
+      "decryptDuration": 16.494730000002164,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 268",
+      "encryptDuration": 21.49777300000278,
+      "decryptDuration": 15.275280000001658,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 269",
+      "encryptDuration": 19.77230299999792,
+      "decryptDuration": 15.761316000000079,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 270",
+      "encryptDuration": 19.681179999999586,
+      "decryptDuration": 17.632778999999573,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 271",
+      "encryptDuration": 21.674371000000974,
+      "decryptDuration": 15.3055269999968,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 272",
+      "encryptDuration": 20.551306999997905,
+      "decryptDuration": 15.895850000000792,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 273",
+      "encryptDuration": 21.994911999998294,
+      "decryptDuration": 17.370382000000973,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 274",
+      "encryptDuration": 21.31373800000074,
+      "decryptDuration": 15.600691999999981,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 275",
+      "encryptDuration": 20.807451000000583,
+      "decryptDuration": 15.605342999999266,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 276",
+      "encryptDuration": 21.138653000001796,
+      "decryptDuration": 17.330497999999352,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 277",
+      "encryptDuration": 21.850244999997813,
+      "decryptDuration": 15.347462000001542,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 278",
+      "encryptDuration": 19.425263999997696,
+      "decryptDuration": 15.581679999999324,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 279",
+      "encryptDuration": 19.354973999998037,
+      "decryptDuration": 16.784804999999324,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 280",
+      "encryptDuration": 21.410134000001563,
+      "decryptDuration": 15.358265999999276,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 281",
+      "encryptDuration": 19.171987000001536,
+      "decryptDuration": 15.334130999999616,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 282",
+      "encryptDuration": 21.479433000000427,
+      "decryptDuration": 16.725416000001132,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 283",
+      "encryptDuration": 21.408840000000055,
+      "decryptDuration": 15.151756999999634,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 284",
+      "encryptDuration": 20.230192999999417,
+      "decryptDuration": 15.651495999998588,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 285",
+      "encryptDuration": 20.910185000000638,
+      "decryptDuration": 17.203074000000925,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 286",
+      "encryptDuration": 21.711512000001676,
+      "decryptDuration": 14.93856500000038,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 287",
+      "encryptDuration": 19.226606000000174,
+      "decryptDuration": 15.256761000000552,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 288",
+      "encryptDuration": 20.062675000001036,
+      "decryptDuration": 16.852255000001605,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 289",
+      "encryptDuration": 21.521529000001465,
+      "decryptDuration": 14.903171999998449,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 290",
+      "encryptDuration": 19.770857999999862,
+      "decryptDuration": 15.124342999999499,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 291",
+      "encryptDuration": 21.070134000001417,
+      "decryptDuration": 17.65545099999872,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 292",
+      "encryptDuration": 22.53022200000123,
+      "decryptDuration": 15.63021899999876,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 293",
+      "encryptDuration": 19.671802000000753,
+      "decryptDuration": 15.767327999998088,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 294",
+      "encryptDuration": 20.332320999998046,
+      "decryptDuration": 16.503012999997736,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 295",
+      "encryptDuration": 20.67307300000175,
+      "decryptDuration": 15.149625999998534,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 296",
+      "encryptDuration": 20.26767099999779,
+      "decryptDuration": 15.376734000001306,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 297",
+      "encryptDuration": 20.832323999999062,
+      "decryptDuration": 16.845039000003453,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 298",
+      "encryptDuration": 20.985866000002716,
+      "decryptDuration": 14.8418840000013,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 299",
+      "encryptDuration": 18.898721999998088,
+      "decryptDuration": 15.236474999997881,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 300",
+      "encryptDuration": 19.349091000000044,
+      "decryptDuration": 16.360572999998112,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 301",
+      "encryptDuration": 21.261222000001,
+      "decryptDuration": 15.01279599999907,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 302",
+      "encryptDuration": 19.32855700000073,
+      "decryptDuration": 15.654533999997511,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 303",
+      "encryptDuration": 21.032681000000593,
+      "decryptDuration": 16.67569100000037,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 304",
+      "encryptDuration": 21.169655999998213,
+      "decryptDuration": 14.571266999999352,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 305",
+      "encryptDuration": 20.110365000000456,
+      "decryptDuration": 15.528559999998834,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 306",
+      "encryptDuration": 20.62957599999936,
+      "decryptDuration": 16.77238899999793,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 307",
+      "encryptDuration": 20.944218000000546,
+      "decryptDuration": 14.585472999999183,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 308",
+      "encryptDuration": 19.0356380000012,
+      "decryptDuration": 14.901598000000376,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 309",
+      "encryptDuration": 19.76772499999788,
+      "decryptDuration": 16.07334699999774,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 310",
+      "encryptDuration": 20.545231000000058,
+      "decryptDuration": 14.621832000000722,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 311",
+      "encryptDuration": 19.920852999999624,
+      "decryptDuration": 15.042232000003423,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 312",
+      "encryptDuration": 20.578472999997757,
+      "decryptDuration": 16.507822999999917,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 313",
+      "encryptDuration": 21.017493000003014,
+      "decryptDuration": 14.431917999998404,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 314",
+      "encryptDuration": 18.677726999998413,
+      "decryptDuration": 15.189108999999007,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 315",
+      "encryptDuration": 19.912458999999217,
+      "decryptDuration": 16.018025999997917,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 316",
+      "encryptDuration": 18.942854000000807,
+      "decryptDuration": 14.210372000001371,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 317",
+      "encryptDuration": 20.955763000001753,
+      "decryptDuration": 15.339117999999871,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 318",
+      "encryptDuration": 20.54051299999992,
+      "decryptDuration": 14.29120999999941,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 319",
+      "encryptDuration": 18.52347699999882,
+      "decryptDuration": 14.672912000001816,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 320",
+      "encryptDuration": 18.741642999997566,
+      "decryptDuration": 16.3893390000012,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 321",
+      "encryptDuration": 20.798890999998548,
+      "decryptDuration": 14.30169499999829,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 322",
+      "encryptDuration": 19.209326000000146,
+      "decryptDuration": 15.138904999999795,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 323",
+      "encryptDuration": 21.2192529999993,
+      "decryptDuration": 16.64346000000296,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 324",
+      "encryptDuration": 19.95872700000109,
+      "decryptDuration": 14.117175999999745,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 325",
+      "encryptDuration": 18.571760999999242,
+      "decryptDuration": 14.663526000000275,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 326",
+      "encryptDuration": 20.210928000000422,
+      "decryptDuration": 16.754735999998957,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 327",
+      "encryptDuration": 21.2081079999989,
+      "decryptDuration": 14.193223999998736,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 328",
+      "encryptDuration": 18.552757999997993,
+      "decryptDuration": 14.357991000000766,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 329",
+      "encryptDuration": 19.816992999996728,
+      "decryptDuration": 15.567147000001569,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 330",
+      "encryptDuration": 20.12640900000042,
+      "decryptDuration": 14.165285000002768,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 331",
+      "encryptDuration": 18.810090999999375,
+      "decryptDuration": 14.56315800000084,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 332",
+      "encryptDuration": 20.125348999998096,
+      "decryptDuration": 16.77569399999993,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 333",
+      "encryptDuration": 20.486112000002322,
+      "decryptDuration": 13.841389000001072,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 334",
+      "encryptDuration": 18.5050940000001,
+      "decryptDuration": 14.473110999999335,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 335",
+      "encryptDuration": 19.322228999997606,
+      "decryptDuration": 15.57130799999868,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 336",
+      "encryptDuration": 20.016952000001766,
+      "decryptDuration": 13.989014999999199,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 337",
+      "encryptDuration": 18.77793699999893,
+      "decryptDuration": 14.346363000000565,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 338",
+      "encryptDuration": 19.66850400000112,
+      "decryptDuration": 16.32745700000305,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 339",
+      "encryptDuration": 20.481832999998005,
+      "decryptDuration": 14.092061999999714,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 340",
+      "encryptDuration": 18.366957999998704,
+      "decryptDuration": 14.376077000000805,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 341",
+      "encryptDuration": 18.91066800000044,
+      "decryptDuration": 15.436173999998573,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 342",
+      "encryptDuration": 19.92527500000142,
+      "decryptDuration": 13.906480999998166,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 343",
+      "encryptDuration": 18.72232499999882,
+      "decryptDuration": 14.10211100000015,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 344",
+      "encryptDuration": 19.615928000002896,
+      "decryptDuration": 16.31170099999872,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 345",
+      "encryptDuration": 20.848471999997855,
+      "decryptDuration": 14.433336000001873,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 346",
+      "encryptDuration": 18.5902700000006,
+      "decryptDuration": 14.247911999998905,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 347",
+      "encryptDuration": 18.243242999997165,
+      "decryptDuration": 15.176221999998234,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 348",
+      "encryptDuration": 22.040875000002416,
+      "decryptDuration": 14.402218999999604,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 349",
+      "encryptDuration": 19.1630849999965,
+      "decryptDuration": 15.363377000001492,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 350",
+      "encryptDuration": 20.28006599999935,
+      "decryptDuration": 16.397014000001946,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 351",
+      "encryptDuration": 18.941789999997127,
+      "decryptDuration": 14.415302000001248,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 352",
+      "encryptDuration": 19.585669000000053,
+      "decryptDuration": 14.818514999999024,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 353",
+      "encryptDuration": 19.533816999999544,
+      "decryptDuration": 17.08828800000265,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 354",
+      "encryptDuration": 20.843879000000015,
+      "decryptDuration": 14.414604999998119,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 355",
+      "encryptDuration": 18.89787399999841,
+      "decryptDuration": 14.894695000002685,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 356",
+      "encryptDuration": 19.61612099999911,
+      "decryptDuration": 16.136529999999766,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 357",
+      "encryptDuration": 20.597051000000647,
+      "decryptDuration": 14.256671999999526,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 358",
+      "encryptDuration": 18.7431030000007,
+      "decryptDuration": 14.671330000001035,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 359",
+      "encryptDuration": 19.431571999997686,
+      "decryptDuration": 16.10934300000008,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 360",
+      "encryptDuration": 19.97186099999817,
+      "decryptDuration": 14.243967000002158,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 361",
+      "encryptDuration": 18.70173000000068,
+      "decryptDuration": 14.866449000001012,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 362",
+      "encryptDuration": 19.307317999999213,
+      "decryptDuration": 16.0311870000005,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 363",
+      "encryptDuration": 20.301751999999397,
+      "decryptDuration": 14.157457000001159,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 364",
+      "encryptDuration": 18.809792000000016,
+      "decryptDuration": 14.826302000001306,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 365",
+      "encryptDuration": 19.393628999998327,
+      "decryptDuration": 16.003294999998616,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 366",
+      "encryptDuration": 20.74648200000229,
+      "decryptDuration": 13.939534000001004,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 367",
+      "encryptDuration": 18.62702899999931,
+      "decryptDuration": 14.654418999998597,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 368",
+      "encryptDuration": 18.790271000001667,
+      "decryptDuration": 15.910209999998187,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 369",
+      "encryptDuration": 20.587634999999864,
+      "decryptDuration": 13.971466999999393,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 370",
+      "encryptDuration": 18.351849000002403,
+      "decryptDuration": 13.732073999999557,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 371",
+      "encryptDuration": 18.731841999997414,
+      "decryptDuration": 15.753557,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 372",
+      "encryptDuration": 20.082213999998203,
+      "decryptDuration": 13.907969000003504,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 373",
+      "encryptDuration": 18.005128000000695,
+      "decryptDuration": 13.942802000001393,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 374",
+      "encryptDuration": 18.140432000000146,
+      "decryptDuration": 16.033697999999276,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 375",
+      "encryptDuration": 20.603687999999238,
+      "decryptDuration": 13.204051000000618,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 376",
+      "encryptDuration": 17.649226999998064,
+      "decryptDuration": 13.89614900000015,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 377",
+      "encryptDuration": 17.894118000000162,
+      "decryptDuration": 15.240300000001298,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 378",
+      "encryptDuration": 19.959984000000986,
+      "decryptDuration": 13.119608999997581,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 379",
+      "encryptDuration": 17.38802100000248,
+      "decryptDuration": 13.766375999999582,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 380",
+      "encryptDuration": 17.899740999997448,
+      "decryptDuration": 15.918159000000742,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 381",
+      "encryptDuration": 21.04443099999844,
+      "decryptDuration": 13.173290000002453,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 382",
+      "encryptDuration": 17.55909199999951,
+      "decryptDuration": 13.701335999998264,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 383",
+      "encryptDuration": 17.609185000001162,
+      "decryptDuration": 15.634275000000343,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 384",
+      "encryptDuration": 20.26831900000252,
+      "decryptDuration": 13.411299999999756,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 385",
+      "encryptDuration": 17.687816000001476,
+      "decryptDuration": 13.948444999998173,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 386",
+      "encryptDuration": 17.404881999998906,
+      "decryptDuration": 15.831364999998186,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 387",
+      "encryptDuration": 19.992748000000574,
+      "decryptDuration": 13.56456000000253,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 388",
+      "encryptDuration": 17.29069299999901,
+      "decryptDuration": 13.677353999999468,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 389",
+      "encryptDuration": 17.63856499999747,
+      "decryptDuration": 15.936772000000929,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 390",
+      "encryptDuration": 20.113486999998713,
+      "decryptDuration": 13.014267999998992,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 391",
+      "encryptDuration": 17.455645999998524,
+      "decryptDuration": 13.657400000000052,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 392",
+      "encryptDuration": 17.65536399999837,
+      "decryptDuration": 15.615074000001187,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 393",
+      "encryptDuration": 20.126494000000093,
+      "decryptDuration": 13.284804000002623,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 394",
+      "encryptDuration": 17.596569999997882,
+      "decryptDuration": 13.709027000000788,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 395",
+      "encryptDuration": 17.787978000000294,
+      "decryptDuration": 15.335885000000417,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 396",
+      "encryptDuration": 20.420732999999018,
+      "decryptDuration": 12.955034000002343,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 397",
+      "encryptDuration": 17.634150999998383,
+      "decryptDuration": 13.425123000000895,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 398",
+      "encryptDuration": 17.724742999998853,
+      "decryptDuration": 15.20579699999871,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 399",
+      "encryptDuration": 20.195480999998836,
+      "decryptDuration": 13.136224000001675,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 400",
+      "encryptDuration": 17.30141999999978,
+      "decryptDuration": 13.471025000002555,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 401",
+      "encryptDuration": 17.95318500000576,
+      "decryptDuration": 15.4558990000005,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 402",
+      "encryptDuration": 20.25635499999771,
+      "decryptDuration": 13.224947999995493,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 403",
+      "encryptDuration": 17.31718600000022,
+      "decryptDuration": 13.497937000000093,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 404",
+      "encryptDuration": 17.83595499999501,
+      "decryptDuration": 15.307018999999855,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 405",
+      "encryptDuration": 20.158596000001126,
+      "decryptDuration": 12.825912000000244,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 406",
+      "encryptDuration": 17.47814600000129,
+      "decryptDuration": 13.690929999997024,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 407",
+      "encryptDuration": 17.789616999994905,
+      "decryptDuration": 15.432843000002322,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 408",
+      "encryptDuration": 20.422239999999874,
+      "decryptDuration": 12.945762000003015,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 409",
+      "encryptDuration": 17.277546999997867,
+      "decryptDuration": 13.610326000001805,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 410",
+      "encryptDuration": 17.81905099999858,
+      "decryptDuration": 15.202871000001323,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 411",
+      "encryptDuration": 20.000968000000285,
+      "decryptDuration": 12.711205000006885,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 412",
+      "encryptDuration": 17.431807999993907,
+      "decryptDuration": 13.75333700000192,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 413",
+      "encryptDuration": 17.246781000001647,
+      "decryptDuration": 15.506079999999201,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 414",
+      "encryptDuration": 19.816398000002664,
+      "decryptDuration": 12.907945999999356,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 415",
+      "encryptDuration": 16.951038999999582,
+      "decryptDuration": 13.647863999998663,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 416",
+      "encryptDuration": 17.52350700000534,
+      "decryptDuration": 15.336837999995623,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 417",
+      "encryptDuration": 20.012337000000116,
+      "decryptDuration": 12.694818000003579,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 418",
+      "encryptDuration": 17.461074999999255,
+      "decryptDuration": 13.5436339999942,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 419",
+      "encryptDuration": 17.248597000005248,
+      "decryptDuration": 14.976984000000812,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 420",
+      "encryptDuration": 19.86578400000144,
+      "decryptDuration": 12.987757000002603,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 421",
+      "encryptDuration": 17.33657200000016,
+      "decryptDuration": 13.303090000001248,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 422",
+      "encryptDuration": 17.11992900000041,
+      "decryptDuration": 15.00698199999897,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 423",
+      "encryptDuration": 19.522326999998768,
+      "decryptDuration": 12.899906999999075,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 424",
+      "encryptDuration": 17.213635000000068,
+      "decryptDuration": 13.296970000003057,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 425",
+      "encryptDuration": 17.18374500000209,
+      "decryptDuration": 14.849020000001474,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 426",
+      "encryptDuration": 19.775946000001568,
+      "decryptDuration": 12.490783000001102,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 427",
+      "encryptDuration": 17.436905000002298,
+      "decryptDuration": 13.41641100000561,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 428",
+      "encryptDuration": 17.94819599999755,
+      "decryptDuration": 15.159197000000859,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 429",
+      "encryptDuration": 19.465712000004714,
+      "decryptDuration": 12.788371000002371,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 430",
+      "encryptDuration": 16.720841999995173,
+      "decryptDuration": 13.208432999999786,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 431",
+      "encryptDuration": 16.76321600000665,
+      "decryptDuration": 14.793980999995256,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 432",
+      "encryptDuration": 19.617881000005582,
+      "decryptDuration": 12.561147000000346,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 433",
+      "encryptDuration": 17.340017999995325,
+      "decryptDuration": 13.510279000001901,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 434",
+      "encryptDuration": 17.369713000000047,
+      "decryptDuration": 14.332373999997799,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 435",
+      "encryptDuration": 21.510464000006323,
+      "decryptDuration": 12.661855999998807,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 436",
+      "encryptDuration": 17.583091000000422,
+      "decryptDuration": 13.055245000003197,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 437",
+      "encryptDuration": 20.21684799999639,
+      "decryptDuration": 13.435538999998244,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 438",
+      "encryptDuration": 19.299787999996624,
+      "decryptDuration": 13.502380999998422,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 439",
+      "encryptDuration": 17.984098000000813,
+      "decryptDuration": 13.521500999995624,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 440",
+      "encryptDuration": 18.95839299999352,
+      "decryptDuration": 14.191241000000446,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 441",
+      "encryptDuration": 23.105826000006346,
+      "decryptDuration": 12.573819000004733,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 442",
+      "encryptDuration": 17.144608000002336,
+      "decryptDuration": 12.54179799999838,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 443",
+      "encryptDuration": 17.988334000001487,
+      "decryptDuration": 12.983706999999413,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 444",
+      "encryptDuration": 18.526317999996536,
+      "decryptDuration": 12.910508000000846,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 445",
+      "encryptDuration": 17.212684000005538,
+      "decryptDuration": 13.201339999999618,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 446",
+      "encryptDuration": 17.65969899999618,
+      "decryptDuration": 13.834141999999702,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 447",
+      "encryptDuration": 16.933342000003904,
+      "decryptDuration": 12.593142000005173,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 448",
+      "encryptDuration": 16.48313500000222,
+      "decryptDuration": 12.68818299999839,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 449",
+      "encryptDuration": 16.51877599999716,
+      "decryptDuration": 14.398416999996698,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 450",
+      "encryptDuration": 19.736092999999528,
+      "decryptDuration": 12.209184999999707,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 451",
+      "encryptDuration": 16.870668000003207,
+      "decryptDuration": 12.551000999999815,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 452",
+      "encryptDuration": 16.831751999998232,
+      "decryptDuration": 12.138889000001654,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 453",
+      "encryptDuration": 17.07252200000221,
+      "decryptDuration": 11.988294000002497,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 454",
+      "encryptDuration": 16.79343399999925,
+      "decryptDuration": 12.624940000001516,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 455",
+      "encryptDuration": 16.569767000000866,
+      "decryptDuration": 12.86322900000232,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 456",
+      "encryptDuration": 16.502143999998225,
+      "decryptDuration": 11.980937000000267,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 457",
+      "encryptDuration": 21.56797699999879,
+      "decryptDuration": 12.209421999999904,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 458",
+      "encryptDuration": 16.433607999999367,
+      "decryptDuration": 12.134813000004215,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 459",
+      "encryptDuration": 18.68607399999746,
+      "decryptDuration": 13.072995000002265,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 460",
+      "encryptDuration": 18.191431999999622,
+      "decryptDuration": 12.13653499999782,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 461",
+      "encryptDuration": 16.70038200000272,
+      "decryptDuration": 12.42126200000348,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 462",
+      "encryptDuration": 17.50058600000193,
+      "decryptDuration": 13.332156000004034,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 463",
+      "encryptDuration": 20.770325999998022,
+      "decryptDuration": 11.973966999998083,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 464",
+      "encryptDuration": 16.43637000000308,
+      "decryptDuration": 11.843894999998156,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 465",
+      "encryptDuration": 17.99778299999889,
+      "decryptDuration": 12.973661999996693,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 466",
+      "encryptDuration": 18.422402999996848,
+      "decryptDuration": 11.869077000003017,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 467",
+      "encryptDuration": 16.393084999996063,
+      "decryptDuration": 12.174747999997635,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 468",
+      "encryptDuration": 16.88459899999725,
+      "decryptDuration": 13.053241999994498,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 469",
+      "encryptDuration": 16.65891200000624,
+      "decryptDuration": 11.946116999999504,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 470",
+      "encryptDuration": 16.028525000001537,
+      "decryptDuration": 12.290348000002268,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 471",
+      "encryptDuration": 16.255365999997593,
+      "decryptDuration": 13.622712000003958,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 472",
+      "encryptDuration": 19.43787500000326,
+      "decryptDuration": 12.100310000001627,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 473",
+      "encryptDuration": 16.36695999999938,
+      "decryptDuration": 12.335245999995095,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 474",
+      "encryptDuration": 16.22779399999854,
+      "decryptDuration": 11.832682000000204,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 475",
+      "encryptDuration": 16.385685000001104,
+      "decryptDuration": 11.87639499999932,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 476",
+      "encryptDuration": 16.104338999997708,
+      "decryptDuration": 12.33353000000352,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 477",
+      "encryptDuration": 16.088309999999183,
+      "decryptDuration": 12.584833000000799,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 478",
+      "encryptDuration": 16.140285000001313,
+      "decryptDuration": 11.840966999996454,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 479",
+      "encryptDuration": 21.804799999998068,
+      "decryptDuration": 11.800323000003118,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 480",
+      "encryptDuration": 15.977644000005967,
+      "decryptDuration": 11.696473000003607,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 481",
+      "encryptDuration": 18.739500000003318,
+      "decryptDuration": 12.669000000001688,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 482",
+      "encryptDuration": 17.94114300000365,
+      "decryptDuration": 11.68824300000415,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 483",
+      "encryptDuration": 16.445611000002827,
+      "decryptDuration": 12.242883999999322,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 484",
+      "encryptDuration": 17.165988000000652,
+      "decryptDuration": 12.942760999998427,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 485",
+      "encryptDuration": 21.30563500000426,
+      "decryptDuration": 11.973525000001246,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 486",
+      "encryptDuration": 16.240089999999327,
+      "decryptDuration": 11.589645000000019,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 487",
+      "encryptDuration": 16.59005199999956,
+      "decryptDuration": 11.4829000000027,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 488",
+      "encryptDuration": 16.185191999997187,
+      "decryptDuration": 12.299386999999115,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 489",
+      "encryptDuration": 16.265692000000854,
+      "decryptDuration": 11.832809999999881,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 490",
+      "encryptDuration": 20.495317000000796,
+      "decryptDuration": 11.586560000003374,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 491",
+      "encryptDuration": 16.214018999999098,
+      "decryptDuration": 11.733241000001726,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 492",
+      "encryptDuration": 17.454679000002216,
+      "decryptDuration": 11.583704000004218,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 493",
+      "encryptDuration": 16.17178199999762,
+      "decryptDuration": 11.936379000006127,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 494",
+      "encryptDuration": 16.12063599999965,
+      "decryptDuration": 11.932632999996713,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 495",
+      "encryptDuration": 17.17630199999985,
+      "decryptDuration": 11.493736000003992,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 496",
+      "encryptDuration": 16.067922000002,
+      "decryptDuration": 11.998341999998956,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 497",
+      "encryptDuration": 16.03174299999955,
+      "decryptDuration": 11.950251000002027,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 498",
+      "encryptDuration": 16.98412599999574,
+      "decryptDuration": 11.495319000001473,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 499",
+      "encryptDuration": 15.932702999998583,
+      "decryptDuration": 12.077980999994907,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 500",
+      "encryptDuration": 15.833298000005016,
+      "decryptDuration": 12.06421699999919,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 501",
+      "encryptDuration": 16.0548060000001,
+      "decryptDuration": 11.519367000000784,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 502",
+      "encryptDuration": 15.967663999996148,
+      "decryptDuration": 11.900673000003735,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 503",
+      "encryptDuration": 15.757771999997203,
+      "decryptDuration": 12.081339999996999,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 504",
+      "encryptDuration": 20.142052000002877,
+      "decryptDuration": 11.576801000002888,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 505",
+      "encryptDuration": 15.927558000003046,
+      "decryptDuration": 11.588072999998985,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 506",
+      "encryptDuration": 18.56117500000255,
+      "decryptDuration": 12.252530000005208,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 507",
+      "encryptDuration": 18.182679999998072,
+      "decryptDuration": 11.583692000000156,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 508",
+      "encryptDuration": 16.20081499999651,
+      "decryptDuration": 11.70560100000148,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 509",
+      "encryptDuration": 16.60377900000458,
+      "decryptDuration": 12.471228000002156,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 510",
+      "encryptDuration": 20.349410000002536,
+      "decryptDuration": 11.434668000001693,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 511",
+      "encryptDuration": 15.879522000002908,
+      "decryptDuration": 11.2378549999994,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 512",
+      "encryptDuration": 17.175211000001582,
+      "decryptDuration": 12.24136400000134,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 513",
+      "encryptDuration": 18.016732000003685,
+      "decryptDuration": 11.29770599999756,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 514",
+      "encryptDuration": 16.040578000000096,
+      "decryptDuration": 11.84350799999811,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 515",
+      "encryptDuration": 16.223540999999386,
+      "decryptDuration": 12.410107999996399,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 516",
+      "encryptDuration": 16.503581000004488,
+      "decryptDuration": 11.190752000002249,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 517",
+      "encryptDuration": 15.668669000006048,
+      "decryptDuration": 11.757251999995788,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 518",
+      "encryptDuration": 15.693151000006765,
+      "decryptDuration": 11.548444000000018,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 519",
+      "encryptDuration": 15.910490000002028,
+      "decryptDuration": 11.146227999997791,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 520",
+      "encryptDuration": 15.67028399999981,
+      "decryptDuration": 11.577220999999554,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 521",
+      "encryptDuration": 15.853928999997152,
+      "decryptDuration": 12.391209000001254,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 522",
+      "encryptDuration": 20.08627599999454,
+      "decryptDuration": 11.244501000001037,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 523",
+      "encryptDuration": 15.590279000003648,
+      "decryptDuration": 11.222431000001961,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 524",
+      "encryptDuration": 17.35167899999942,
+      "decryptDuration": 12.153011000002152,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 525",
+      "encryptDuration": 17.307932000003348,
+      "decryptDuration": 11.169263999996474,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 526",
+      "encryptDuration": 15.539581000004546,
+      "decryptDuration": 11.598721000002115,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 527",
+      "encryptDuration": 15.948929000005592,
+      "decryptDuration": 12.489696000004187,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 528",
+      "encryptDuration": 19.830390000002808,
+      "decryptDuration": 11.579775999998674,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 529",
+      "encryptDuration": 15.613729999997304,
+      "decryptDuration": 11.323245000006864,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 530",
+      "encryptDuration": 16.947173000000475,
+      "decryptDuration": 12.14143999999942,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 531",
+      "encryptDuration": 17.80399100000068,
+      "decryptDuration": 11.175757000004523,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 532",
+      "encryptDuration": 15.257941999996547,
+      "decryptDuration": 11.573873000001186,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 533",
+      "encryptDuration": 15.981927000000724,
+      "decryptDuration": 12.25164699999732,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 534",
+      "encryptDuration": 16.37310499999876,
+      "decryptDuration": 11.206944999998086,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 535",
+      "encryptDuration": 15.432901000000129,
+      "decryptDuration": 11.448969000004581,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 536",
+      "encryptDuration": 15.268343999996432,
+      "decryptDuration": 11.373974000001908,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 537",
+      "encryptDuration": 15.712228999997023,
+      "decryptDuration": 11.301728999998886,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 538",
+      "encryptDuration": 15.900716999996803,
+      "decryptDuration": 11.29905900000449,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 539",
+      "encryptDuration": 15.193196000000171,
+      "decryptDuration": 11.74539999999979,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 540",
+      "encryptDuration": 20.010053000005428,
+      "decryptDuration": 11.315895000007004,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 541",
+      "encryptDuration": 15.438379999999597,
+      "decryptDuration": 10.874948999997287,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 542",
+      "encryptDuration": 16.26589899999817,
+      "decryptDuration": 12.026879999997618,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 543",
+      "encryptDuration": 16.69887999999628,
+      "decryptDuration": 10.931207999994513,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 544",
+      "encryptDuration": 15.331908000000112,
+      "decryptDuration": 11.373058000004676,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 545",
+      "encryptDuration": 15.5772799999977,
+      "decryptDuration": 11.79779899999994,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 546",
+      "encryptDuration": 17.614685000000463,
+      "decryptDuration": 11.651932999993733,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 547",
+      "encryptDuration": 17.002904000000854,
+      "decryptDuration": 11.05455300000176,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 548",
+      "encryptDuration": 15.400321000000986,
+      "decryptDuration": 11.184298000000126,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 549",
+      "encryptDuration": 15.037717999999586,
+      "decryptDuration": 11.124400000000605,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 550",
+      "encryptDuration": 17.826506999997946,
+      "decryptDuration": 11.659291000003577,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 551",
+      "encryptDuration": 17.269314999997732,
+      "decryptDuration": 10.968536000000313,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 552",
+      "encryptDuration": 15.43419499999436,
+      "decryptDuration": 11.434646000001521,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 553",
+      "encryptDuration": 15.026505000001634,
+      "decryptDuration": 11.050190000001749,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 554",
+      "encryptDuration": 16.690528999999515,
+      "decryptDuration": 10.879359000005934,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 555",
+      "encryptDuration": 15.445196000000578,
+      "decryptDuration": 11.367465000002994,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 556",
+      "encryptDuration": 15.22431399999914,
+      "decryptDuration": 10.657894999996643,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 557",
+      "encryptDuration": 20.105530000000726,
+      "decryptDuration": 11.086355999999796,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 558",
+      "encryptDuration": 16.78677200000675,
+      "decryptDuration": 12.808947999998054,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 559",
+      "encryptDuration": 18.22084900000482,
+      "decryptDuration": 11.673339000000851,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 560",
+      "encryptDuration": 16.318276000005426,
+      "decryptDuration": 10.829890000000887,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 561",
+      "encryptDuration": 15.824907000001986,
+      "decryptDuration": 10.729954999995243,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 562",
+      "encryptDuration": 14.979565000001458,
+      "decryptDuration": 10.913100999998278,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 563",
+      "encryptDuration": 15.313313999999082,
+      "decryptDuration": 10.778388999999152,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 564",
+      "encryptDuration": 19.854436000001442,
+      "decryptDuration": 10.690405000001192,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 565",
+      "encryptDuration": 14.810898000003363,
+      "decryptDuration": 10.544783000004827,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 566",
+      "encryptDuration": 16.576233999992837,
+      "decryptDuration": 10.61584700000094,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 567",
+      "encryptDuration": 15.206433999999717,
+      "decryptDuration": 10.963530000000901,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 568",
+      "encryptDuration": 19.240559999998368,
+      "decryptDuration": 10.57258400000137,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 569",
+      "encryptDuration": 15.084072000005108,
+      "decryptDuration": 10.475021999998717,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 570",
+      "encryptDuration": 16.081357000002754,
+      "decryptDuration": 10.341743999997561,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 571",
+      "encryptDuration": 15.032249000003503,
+      "decryptDuration": 10.945554000005359,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 572",
+      "encryptDuration": 19.397405000003346,
+      "decryptDuration": 10.555041999999958,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 573",
+      "encryptDuration": 14.909711000000243,
+      "decryptDuration": 10.393208000001323,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 574",
+      "encryptDuration": 16.170201000000816,
+      "decryptDuration": 10.616205999998783,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 575",
+      "encryptDuration": 14.772355000000971,
+      "decryptDuration": 10.840070999998716,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 576",
+      "encryptDuration": 15.025374999997439,
+      "decryptDuration": 10.434110999995028,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 577",
+      "encryptDuration": 14.71824199999537,
+      "decryptDuration": 10.94577799999388,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 578",
+      "encryptDuration": 14.870838999995613,
+      "decryptDuration": 10.699067000001378,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 579",
+      "encryptDuration": 16.913055999997596,
+      "decryptDuration": 11.110603000000992,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 580",
+      "encryptDuration": 16.57915099999809,
+      "decryptDuration": 10.39769100000558,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 581",
+      "encryptDuration": 14.687074000001303,
+      "decryptDuration": 10.951573000005737,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 582",
+      "encryptDuration": 16.063512000000628,
+      "decryptDuration": 11.157992000000377,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 583",
+      "encryptDuration": 17.237635000004957,
+      "decryptDuration": 11.250871000003826,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 584",
+      "encryptDuration": 16.711090999997396,
+      "decryptDuration": 10.26934600000095,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 585",
+      "encryptDuration": 14.771766999998363,
+      "decryptDuration": 10.749773000003188,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 586",
+      "encryptDuration": 14.575450000003912,
+      "decryptDuration": 10.208528000002843,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 587",
+      "encryptDuration": 15.921263000003819,
+      "decryptDuration": 10.067315000000235,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 588",
+      "encryptDuration": 14.52415800000017,
+      "decryptDuration": 10.753741999993508,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 589",
+      "encryptDuration": 14.677891999999702,
+      "decryptDuration": 10.133002000002307,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 590",
+      "encryptDuration": 15.987273000006098,
+      "decryptDuration": 10.406083999994735,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 591",
+      "encryptDuration": 14.502477000001818,
+      "decryptDuration": 10.689926999999443,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 592",
+      "encryptDuration": 14.588473000003432,
+      "decryptDuration": 10.104184000003443,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 593",
+      "encryptDuration": 17.157124999997905,
+      "decryptDuration": 10.898149000000558,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 594",
+      "encryptDuration": 16.194776999996975,
+      "decryptDuration": 10.045169999997597,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 595",
+      "encryptDuration": 14.750697000003129,
+      "decryptDuration": 10.84791199999745,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 596",
+      "encryptDuration": 14.587402999997721,
+      "decryptDuration": 10.131951000003028,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 597",
+      "encryptDuration": 16.138090000000375,
+      "decryptDuration": 10.082828000005975,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 598",
+      "encryptDuration": 14.570892000003369,
+      "decryptDuration": 10.614755000002333,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 599",
+      "encryptDuration": 14.5600540000014,
+      "decryptDuration": 10.306076000000758,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 600",
+      "encryptDuration": 15.96416699999827,
+      "decryptDuration": 9.997325000003912,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 601",
+      "encryptDuration": 14.371510999997554,
+      "decryptDuration": 10.398947000001499,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 602",
+      "encryptDuration": 14.590628999998444,
+      "decryptDuration": 10.086017000001448,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 603",
+      "encryptDuration": 16.992917000003217,
+      "decryptDuration": 11.013631000001624,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 604",
+      "encryptDuration": 16.1993930000026,
+      "decryptDuration": 9.856575999998313,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 605",
+      "encryptDuration": 14.35507299999881,
+      "decryptDuration": 10.372642000002088,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 606",
+      "encryptDuration": 14.41208899999765,
+      "decryptDuration": 10.04755699999805,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 607",
+      "encryptDuration": 16.83939300000202,
+      "decryptDuration": 10.589433000001009,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 608",
+      "encryptDuration": 16.310883999998623,
+      "decryptDuration": 9.938027000003785,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 609",
+      "encryptDuration": 14.0607600000003,
+      "decryptDuration": 10.266729999995732,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 610",
+      "encryptDuration": 14.29889700000058,
+      "decryptDuration": 10.074653999996372,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 611",
+      "encryptDuration": 16.24077099999704,
+      "decryptDuration": 9.897000000004482,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 612",
+      "encryptDuration": 14.035894000000553,
+      "decryptDuration": 9.863029000000097,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 613",
+      "encryptDuration": 16.549456000000646,
+      "decryptDuration": 10.778994000000239,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 614",
+      "encryptDuration": 16.083667999999307,
+      "decryptDuration": 9.905320999998366,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 615",
+      "encryptDuration": 14.29904499999975,
+      "decryptDuration": 10.219577999996545,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 616",
+      "encryptDuration": 14.433482000000367,
+      "decryptDuration": 9.803522000001976,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 617",
+      "encryptDuration": 16.282661000004737,
+      "decryptDuration": 11.010534000000916,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 618",
+      "encryptDuration": 16.214797000000544,
+      "decryptDuration": 9.760571999999229,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 619",
+      "encryptDuration": 13.962750999999116,
+      "decryptDuration": 10.54767599999468,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 620",
+      "encryptDuration": 14.047599000004993,
+      "decryptDuration": 9.917561000002024,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 621",
+      "encryptDuration": 15.667663000000175,
+      "decryptDuration": 9.774537999997847,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 622",
+      "encryptDuration": 14.43026600000303,
+      "decryptDuration": 9.7628490000061,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 623",
+      "encryptDuration": 15.319848999999522,
+      "decryptDuration": 9.63681099999667,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 624",
+      "encryptDuration": 14.230555999994976,
+      "decryptDuration": 10.16294399999606,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 625",
+      "encryptDuration": 14.232275999995181,
+      "decryptDuration": 9.853655999999319,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 626",
+      "encryptDuration": 15.52147100000002,
+      "decryptDuration": 9.848749000004318,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 627",
+      "encryptDuration": 13.987647000001743,
+      "decryptDuration": 10.135689000002458,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 628",
+      "encryptDuration": 14.012835999994422,
+      "decryptDuration": 9.805347000001348,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 629",
+      "encryptDuration": 16.232208999994327,
+      "decryptDuration": 10.806469999995898,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 630",
+      "encryptDuration": 15.752426999999443,
+      "decryptDuration": 9.599880999994639,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 631",
+      "encryptDuration": 13.955056999999215,
+      "decryptDuration": 10.08318600000348,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 632",
+      "encryptDuration": 14.144704999998794,
+      "decryptDuration": 9.787317000002076,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 633",
+      "encryptDuration": 16.046996999997646,
+      "decryptDuration": 10.708600999998453,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 634",
+      "encryptDuration": 15.569812000001548,
+      "decryptDuration": 9.736316000002262,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 635",
+      "encryptDuration": 13.884201000000758,
+      "decryptDuration": 10.003426999996009,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 636",
+      "encryptDuration": 14.071286000005784,
+      "decryptDuration": 9.64810800000123,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 637",
+      "encryptDuration": 15.725916000003053,
+      "decryptDuration": 10.595459000003757,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 638",
+      "encryptDuration": 15.834296000000904,
+      "decryptDuration": 9.623985999998695,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 639",
+      "encryptDuration": 13.837650000001304,
+      "decryptDuration": 9.907226999996055,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 640",
+      "encryptDuration": 14.125243000002229,
+      "decryptDuration": 9.516339000001608,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 641",
+      "encryptDuration": 15.341411999994307,
+      "decryptDuration": 9.539099000001443,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 642",
+      "encryptDuration": 13.574133000001893,
+      "decryptDuration": 9.490162999994936,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 643",
+      "encryptDuration": 15.071838000003481,
+      "decryptDuration": 9.50022099999478,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 644",
+      "encryptDuration": 13.796591999998782,
+      "decryptDuration": 9.859347999998135,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 645",
+      "encryptDuration": 13.792059999999765,
+      "decryptDuration": 9.483446999998705,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 646",
+      "encryptDuration": 15.269553999998607,
+      "decryptDuration": 10.192743999999948,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 647",
+      "encryptDuration": 15.625735999994504,
+      "decryptDuration": 9.48380200000247,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 648",
+      "encryptDuration": 13.783801999998104,
+      "decryptDuration": 9.84363999999914,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 649",
+      "encryptDuration": 13.660286999998789,
+      "decryptDuration": 9.274530999995477,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 650",
+      "encryptDuration": 15.7806070000006,
+      "decryptDuration": 10.244926999999734,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 651",
+      "encryptDuration": 15.633602000001702,
+      "decryptDuration": 9.340195999997377,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 652",
+      "encryptDuration": 13.73935199999687,
+      "decryptDuration": 9.75647900000331,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 653",
+      "encryptDuration": 13.641496000003826,
+      "decryptDuration": 9.158108000003267,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 654",
+      "encryptDuration": 16.189463999995496,
+      "decryptDuration": 10.226386000002094,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 655",
+      "encryptDuration": 15.73622400000022,
+      "decryptDuration": 9.596460000000661,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 656",
+      "encryptDuration": 13.532697000002372,
+      "decryptDuration": 9.628990999997768,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 657",
+      "encryptDuration": 13.365542999999889,
+      "decryptDuration": 9.124216999996861,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 658",
+      "encryptDuration": 15.385202999998,
+      "decryptDuration": 9.668572999995376,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 659",
+      "encryptDuration": 15.886035999996238,
+      "decryptDuration": 9.222093999997014,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 660",
+      "encryptDuration": 13.475621999998111,
+      "decryptDuration": 9.540129000000888,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 661",
+      "encryptDuration": 13.313932999997633,
+      "decryptDuration": 9.059386000000814,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 662",
+      "encryptDuration": 14.585269000002882,
+      "decryptDuration": 8.995129000002635,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 663",
+      "encryptDuration": 13.550811000000976,
+      "decryptDuration": 8.996815999998944,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 664",
+      "encryptDuration": 15.495282999996562,
+      "decryptDuration": 9.98873000000458,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 665",
+      "encryptDuration": 15.422464000002947,
+      "decryptDuration": 8.973606999999902,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 666",
+      "encryptDuration": 13.341930000002321,
+      "decryptDuration": 9.486459000007017,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 667",
+      "encryptDuration": 13.302847999999358,
+      "decryptDuration": 8.973682000003464,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 668",
+      "encryptDuration": 14.652962000000116,
+      "decryptDuration": 8.840947000004235,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 669",
+      "encryptDuration": 13.479804999995395,
+      "decryptDuration": 8.822809999997844,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 670",
+      "encryptDuration": 15.425914999999804,
+      "decryptDuration": 9.85172899999452,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 671",
+      "encryptDuration": 15.490375000001222,
+      "decryptDuration": 9.054233000002569,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 672",
+      "encryptDuration": 13.331153999999515,
+      "decryptDuration": 9.261955000001763,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 673",
+      "encryptDuration": 13.128543999999238,
+      "decryptDuration": 8.917715000003227,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 674",
+      "encryptDuration": 14.73127000000386,
+      "decryptDuration": 8.973471000004793,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 675",
+      "encryptDuration": 13.379309999996622,
+      "decryptDuration": 8.96020999999746,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 676",
+      "encryptDuration": 15.278919000003953,
+      "decryptDuration": 9.723566999993636,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 677",
+      "encryptDuration": 15.107911999999487,
+      "decryptDuration": 8.917646000001696,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 678",
+      "encryptDuration": 13.268990999997186,
+      "decryptDuration": 9.403591000002052,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 679",
+      "encryptDuration": 13.282166000004509,
+      "decryptDuration": 8.784930000001623,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 680",
+      "encryptDuration": 14.370312999999442,
+      "decryptDuration": 8.631308000003628,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 681",
+      "encryptDuration": 13.151434999999765,
+      "decryptDuration": 8.74655000000348,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 682",
+      "encryptDuration": 14.921376999998756,
+      "decryptDuration": 9.744779000000563,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 683",
+      "encryptDuration": 15.152024000002712,
+      "decryptDuration": 8.96925000000192,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 684",
+      "encryptDuration": 12.909269000003405,
+      "decryptDuration": 9.078401999999187,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 685",
+      "encryptDuration": 12.964343999999983,
+      "decryptDuration": 8.531088999996427,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 686",
+      "encryptDuration": 14.472549999998591,
+      "decryptDuration": 8.619971000000078,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 687",
+      "encryptDuration": 13.208458000000974,
+      "decryptDuration": 8.660026999998081,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 688",
+      "encryptDuration": 14.987504999997327,
+      "decryptDuration": 9.73423900000489,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 689",
+      "encryptDuration": 14.680559000000358,
+      "decryptDuration": 8.643941000002087,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 690",
+      "encryptDuration": 12.975136999993993,
+      "decryptDuration": 8.973691999999573,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 691",
+      "encryptDuration": 13.333365999998932,
+      "decryptDuration": 8.678658999997424,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 692",
+      "encryptDuration": 14.276017000003776,
+      "decryptDuration": 8.575960000001942,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 693",
+      "encryptDuration": 12.80837099999917,
+      "decryptDuration": 8.677138999999443,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 694",
+      "encryptDuration": 14.952187999995658,
+      "decryptDuration": 9.540171000000555,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 695",
+      "encryptDuration": 14.725190999997722,
+      "decryptDuration": 8.547812999997404,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 696",
+      "encryptDuration": 12.926703000004636,
+      "decryptDuration": 8.935581999998249,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 697",
+      "encryptDuration": 12.7347660000014,
+      "decryptDuration": 8.5649459999986,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 698",
+      "encryptDuration": 14.139029999998456,
+      "decryptDuration": 8.701797000001534,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 699",
+      "encryptDuration": 13.120664999994915,
+      "decryptDuration": 8.473861000005854,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 700",
+      "encryptDuration": 14.78191599999991,
+      "decryptDuration": 9.272257999997237,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 701",
+      "encryptDuration": 14.788005000002158,
+      "decryptDuration": 8.47747199999867,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 702",
+      "encryptDuration": 12.751092999998946,
+      "decryptDuration": 8.817428999995172,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 703",
+      "encryptDuration": 12.6574099999998,
+      "decryptDuration": 8.681571000000986,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 704",
+      "encryptDuration": 14.265477000000828,
+      "decryptDuration": 8.48315900000307,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 705",
+      "encryptDuration": 12.874953000005917,
+      "decryptDuration": 8.309429000000819,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 706",
+      "encryptDuration": 14.91651300000376,
+      "decryptDuration": 9.54124099999899,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 707",
+      "encryptDuration": 14.956633000001602,
+      "decryptDuration": 9.274532999996154,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 708",
+      "encryptDuration": 13.559269999997923,
+      "decryptDuration": 9.510037000000011,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 709",
+      "encryptDuration": 13.488219999999274,
+      "decryptDuration": 8.77757500000007,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 710",
+      "encryptDuration": 14.639931999998225,
+      "decryptDuration": 8.831440000001749,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 711",
+      "encryptDuration": 13.044447999993281,
+      "decryptDuration": 8.652430000001914,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 712",
+      "encryptDuration": 15.154030999998213,
+      "decryptDuration": 9.940726999993785,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 713",
+      "encryptDuration": 16.765696000002208,
+      "decryptDuration": 12.490936000001966,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 714",
+      "encryptDuration": 14.058416999992914,
+      "decryptDuration": 9.842828000000736,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 715",
+      "encryptDuration": 13.005839999997988,
+      "decryptDuration": 8.341786999997566,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 716",
+      "encryptDuration": 14.085017000004882,
+      "decryptDuration": 8.3246949999957,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 717",
+      "encryptDuration": 13.830160999998043,
+      "decryptDuration": 8.717866999999387,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 718",
+      "encryptDuration": 17.564947999999276,
+      "decryptDuration": 13.37035399999877,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 719",
+      "encryptDuration": 15.604244000001927,
+      "decryptDuration": 8.812818999998854,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 720",
+      "encryptDuration": 13.168880999997782,
+      "decryptDuration": 8.850439000001643,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 721",
+      "encryptDuration": 12.893492999995942,
+      "decryptDuration": 8.466113000002224,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 722",
+      "encryptDuration": 14.697342000006756,
+      "decryptDuration": 8.856579999999667,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 723",
+      "encryptDuration": 13.038440000003902,
+      "decryptDuration": 8.716535999999905,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 724",
+      "encryptDuration": 23.463341999995464,
+      "decryptDuration": 14.624258000003465,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 725",
+      "encryptDuration": 19.59078099999897,
+      "decryptDuration": 8.635309999997844,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 726",
+      "encryptDuration": 12.973996000000625,
+      "decryptDuration": 9.983282000001054,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 727",
+      "encryptDuration": 13.418480000000272,
+      "decryptDuration": 8.525168000000122,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 728",
+      "encryptDuration": 14.270754999997735,
+      "decryptDuration": 8.317516000002797,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 729",
+      "encryptDuration": 13.505505999994057,
+      "decryptDuration": 8.459942999994382,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 730",
+      "encryptDuration": 15.004862999994657,
+      "decryptDuration": 8.941303999999946,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 731",
+      "encryptDuration": 14.66227799999615,
+      "decryptDuration": 9.355728999995335,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 732",
+      "encryptDuration": 20.49511000000348,
+      "decryptDuration": 14.785307999998622,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 733",
+      "encryptDuration": 16.055929999994987,
+      "decryptDuration": 8.993446000000404,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 734",
+      "encryptDuration": 15.117774999998801,
+      "decryptDuration": 8.766975999998976,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 735",
+      "encryptDuration": 13.182136000003084,
+      "decryptDuration": 8.546078999999736,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 736",
+      "encryptDuration": 14.01894899999752,
+      "decryptDuration": 8.416679999994813,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 737",
+      "encryptDuration": 12.597698000005039,
+      "decryptDuration": 8.333653000001505,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 738",
+      "encryptDuration": 19.09864099999686,
+      "decryptDuration": 11.10684300000139,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 739",
+      "encryptDuration": 16.874606999997923,
+      "decryptDuration": 8.298968000002787,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 740",
+      "encryptDuration": 13.578641000000061,
+      "decryptDuration": 9.095955999997386,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 741",
+      "encryptDuration": 13.725704000004043,
+      "decryptDuration": 9.075604999998177,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 742",
+      "encryptDuration": 17.13937900000019,
+      "decryptDuration": 10.540929000002507,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 743",
+      "encryptDuration": 22.48514000000432,
+      "decryptDuration": 14.911153000000922,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 744",
+      "encryptDuration": 24.874561000004178,
+      "decryptDuration": 13.032186999997066,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 745",
+      "encryptDuration": 14.537193000003754,
+      "decryptDuration": 8.262571999999636,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 746",
+      "encryptDuration": 12.88684700000158,
+      "decryptDuration": 8.717510000002221,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 747",
+      "encryptDuration": 13.237979000004998,
+      "decryptDuration": 8.495166999993671,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 748",
+      "encryptDuration": 15.335587000001397,
+      "decryptDuration": 8.831663999997545,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 749",
+      "encryptDuration": 13.251174999997602,
+      "decryptDuration": 8.319789000001037,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 750",
+      "encryptDuration": 17.473692999999912,
+      "decryptDuration": 13.07041400000162,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 751",
+      "encryptDuration": 14.577610000000277,
+      "decryptDuration": 8.409816999999748,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 752",
+      "encryptDuration": 13.318650999994134,
+      "decryptDuration": 8.891080000001239,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 753",
+      "encryptDuration": 13.079986999997345,
+      "decryptDuration": 8.767911000002641,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 754",
+      "encryptDuration": 14.06570500000089,
+      "decryptDuration": 8.359676000000036,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 755",
+      "encryptDuration": 12.33095200000389,
+      "decryptDuration": 7.9316150000013295,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 756",
+      "encryptDuration": 13.759376999994856,
+      "decryptDuration": 8.028453999999329,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 757",
+      "encryptDuration": 14.707392999996955,
+      "decryptDuration": 13.900056999998924,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 758",
+      "encryptDuration": 16.335297999998147,
+      "decryptDuration": 7.981322999999975,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 759",
+      "encryptDuration": 12.269688000000315,
+      "decryptDuration": 8.425167000001238,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 760",
+      "encryptDuration": 12.596718000000692,
+      "decryptDuration": 7.915143999998691,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 761",
+      "encryptDuration": 13.302956999999878,
+      "decryptDuration": 7.89016399999673,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 762",
+      "encryptDuration": 12.338513000002422,
+      "decryptDuration": 7.861697000000277,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 763",
+      "encryptDuration": 15.846426000003703,
+      "decryptDuration": 10.219231999995827,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 764",
+      "encryptDuration": 14.156842000003962,
+      "decryptDuration": 7.912029999999504,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 765",
+      "encryptDuration": 12.329511999996612,
+      "decryptDuration": 8.504367999994429,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 766",
+      "encryptDuration": 12.340177000005497,
+      "decryptDuration": 7.862210999999661,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 767",
+      "encryptDuration": 13.344901000004029,
+      "decryptDuration": 7.707111999996414,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 768",
+      "encryptDuration": 11.963723000000755,
+      "decryptDuration": 7.657219000000623,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 769",
+      "encryptDuration": 13.51880600000004,
+      "decryptDuration": 7.844712999998592,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 770",
+      "encryptDuration": 12.167162999998254,
+      "decryptDuration": 7.803782000002684,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 771",
+      "encryptDuration": 13.543194000005315,
+      "decryptDuration": 8.521436000002723,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 772",
+      "encryptDuration": 13.394524000003003,
+      "decryptDuration": 7.596569999994244,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 773",
+      "encryptDuration": 12.009044000005815,
+      "decryptDuration": 8.173025999996753,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 774",
+      "encryptDuration": 11.8985709999979,
+      "decryptDuration": 7.559128000000783,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 775",
+      "encryptDuration": 13.025257000001147,
+      "decryptDuration": 7.668395000000601,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 776",
+      "encryptDuration": 12.036989000000176,
+      "decryptDuration": 7.585075000002689,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 777",
+      "encryptDuration": 13.216330000002927,
+      "decryptDuration": 7.616038000000117,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 778",
+      "encryptDuration": 11.828897000006691,
+      "decryptDuration": 7.623090000000957,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 779",
+      "encryptDuration": 13.617792000004556,
+      "decryptDuration": 8.283971000004385,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 780",
+      "encryptDuration": 13.82061899999826,
+      "decryptDuration": 7.520591000000422,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 781",
+      "encryptDuration": 11.793668999998772,
+      "decryptDuration": 7.973185000002559,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 782",
+      "encryptDuration": 11.809447999999975,
+      "decryptDuration": 7.539838999997301,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 783",
+      "encryptDuration": 12.89491999999882,
+      "decryptDuration": 7.444700000000012,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 784",
+      "encryptDuration": 11.911140000003797,
+      "decryptDuration": 7.447173999993538,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 785",
+      "encryptDuration": 13.224266000004718,
+      "decryptDuration": 7.627181000003475,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 786",
+      "encryptDuration": 11.652004000003217,
+      "decryptDuration": 7.366383999993559,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 787",
+      "encryptDuration": 13.724975999997696,
+      "decryptDuration": 8.219323999997869,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 788",
+      "encryptDuration": 13.32565600000089,
+      "decryptDuration": 7.495359000000462,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 789",
+      "encryptDuration": 11.776216999998724,
+      "decryptDuration": 7.892005000001518,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 790",
+      "encryptDuration": 11.85516600000119,
+      "decryptDuration": 7.3693550000025425,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 791",
+      "encryptDuration": 13.033590999999433,
+      "decryptDuration": 7.352408000006108,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 792",
+      "encryptDuration": 11.740367999998853,
+      "decryptDuration": 7.471084000004339,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 793",
+      "encryptDuration": 13.014019000002008,
+      "decryptDuration": 7.322332000003371,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 794",
+      "encryptDuration": 11.923675999998522,
+      "decryptDuration": 7.4573010000021895,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 795",
+      "encryptDuration": 13.494117000002007,
+      "decryptDuration": 8.205211000000418,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 796",
+      "encryptDuration": 13.472738999997091,
+      "decryptDuration": 7.411154999994324,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 797",
+      "encryptDuration": 12.060947000005399,
+      "decryptDuration": 7.956626999999571,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 798",
+      "encryptDuration": 11.75723100000323,
+      "decryptDuration": 7.422990999999456,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 799",
+      "encryptDuration": 13.035992000004626,
+      "decryptDuration": 7.334631000005174,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 800",
+      "encryptDuration": 11.732170999996015,
+      "decryptDuration": 7.337553999997908,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 801",
+      "encryptDuration": 12.894769000005908,
+      "decryptDuration": 7.4162409999989904,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 802",
+      "encryptDuration": 11.753886000005878,
+      "decryptDuration": 7.425879000002169,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 803",
+      "encryptDuration": 12.840531000001647,
+      "decryptDuration": 7.404699000006076,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 804",
+      "encryptDuration": 11.869962000004307,
+      "decryptDuration": 7.5820220000023255,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 805",
+      "encryptDuration": 11.648914999997942,
+      "decryptDuration": 7.374771000002511,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 806",
+      "encryptDuration": 13.102874000003794,
+      "decryptDuration": 8.176747999998042,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 807",
+      "encryptDuration": 13.779883000002883,
+      "decryptDuration": 7.342813000002934,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 808",
+      "encryptDuration": 11.757670000006328,
+      "decryptDuration": 7.881682999999612,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 809",
+      "encryptDuration": 11.42609000000084,
+      "decryptDuration": 7.2477429999999,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 810",
+      "encryptDuration": 12.992277999997896,
+      "decryptDuration": 7.4451479999988806,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 811",
+      "encryptDuration": 11.737795000000915,
+      "decryptDuration": 7.335967999999411,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 812",
+      "encryptDuration": 12.879804000003787,
+      "decryptDuration": 7.506696999997075,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 813",
+      "encryptDuration": 11.652118999998493,
+      "decryptDuration": 7.1843059999955585,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 814",
+      "encryptDuration": 13.26577100000577,
+      "decryptDuration": 7.241633999998157,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 815",
+      "encryptDuration": 11.604372000001604,
+      "decryptDuration": 7.8331880000041565,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 816",
+      "encryptDuration": 11.716502000002947,
+      "decryptDuration": 7.2652929999967455,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 817",
+      "encryptDuration": 13.3301169999977,
+      "decryptDuration": 8.170525999994425,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 818",
+      "encryptDuration": 13.6201560000045,
+      "decryptDuration": 7.333674000001338,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 819",
+      "encryptDuration": 11.603058000000601,
+      "decryptDuration": 7.783944000002521,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 820",
+      "encryptDuration": 11.768637000001036,
+      "decryptDuration": 7.264769000001252,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 821",
+      "encryptDuration": 12.89843600000313,
+      "decryptDuration": 7.351149000001897,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 822",
+      "encryptDuration": 11.593015999998897,
+      "decryptDuration": 7.077679999994871,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 823",
+      "encryptDuration": 12.813946999995096,
+      "decryptDuration": 7.136071000000811,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 824",
+      "encryptDuration": 11.402287999997498,
+      "decryptDuration": 7.232525000006717,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 825",
+      "encryptDuration": 12.584324000003107,
+      "decryptDuration": 7.295975999993971,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 826",
+      "encryptDuration": 11.531032000006235,
+      "decryptDuration": 7.434574999999313,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 827",
+      "encryptDuration": 11.58022599999822,
+      "decryptDuration": 7.273338999999396,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 828",
+      "encryptDuration": 12.645787000001292,
+      "decryptDuration": 7.878496000004816,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 829",
+      "encryptDuration": 13.803745999997773,
+      "decryptDuration": 7.130212000003667,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 830",
+      "encryptDuration": 11.656764999999723,
+      "decryptDuration": 7.780589999994845,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 831",
+      "encryptDuration": 11.428606999994372,
+      "decryptDuration": 7.163872999997693,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 832",
+      "encryptDuration": 12.720765999998548,
+      "decryptDuration": 7.071961000001465,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 833",
+      "encryptDuration": 11.56229699999676,
+      "decryptDuration": 7.14820100000361,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 834",
+      "encryptDuration": 12.635597000000416,
+      "decryptDuration": 7.2237999999997555,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 835",
+      "encryptDuration": 11.733690999993996,
+      "decryptDuration": 7.192305000004126,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 836",
+      "encryptDuration": 12.509597999996913,
+      "decryptDuration": 7.169523999997182,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 837",
+      "encryptDuration": 11.62588500000129,
+      "decryptDuration": 7.535498999997799,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 838",
+      "encryptDuration": 11.663158000003023,
+      "decryptDuration": 7.039700000001176,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 839",
+      "encryptDuration": 12.83087599999999,
+      "decryptDuration": 7.688087999995332,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 840",
+      "encryptDuration": 13.676983999997901,
+      "decryptDuration": 7.052351999998791,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 841",
+      "encryptDuration": 11.596389999998792,
+      "decryptDuration": 7.692144000000553,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 842",
+      "encryptDuration": 11.491698999998334,
+      "decryptDuration": 7.086232000001473,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 843",
+      "encryptDuration": 12.687816000005114,
+      "decryptDuration": 7.145773000003828,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 844",
+      "encryptDuration": 11.46102499999688,
+      "decryptDuration": 7.149631000000227,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 845",
+      "encryptDuration": 12.474610999997822,
+      "decryptDuration": 7.184735000002547,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 846",
+      "encryptDuration": 11.530091000000539,
+      "decryptDuration": 7.1677119999949355,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 847",
+      "encryptDuration": 12.295196999999462,
+      "decryptDuration": 6.9692160000049626,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 848",
+      "encryptDuration": 11.361469999996189,
+      "decryptDuration": 7.299525000002177,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 849",
+      "encryptDuration": 11.53089199999522,
+      "decryptDuration": 6.973086000005424,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 850",
+      "encryptDuration": 12.281388000003062,
+      "decryptDuration": 7.593204999997397,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 851",
+      "encryptDuration": 13.49956899999961,
+      "decryptDuration": 6.920848999994632,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 852",
+      "encryptDuration": 11.311371000003419,
+      "decryptDuration": 7.228190999994695,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 853",
+      "encryptDuration": 11.131952999996429,
+      "decryptDuration": 7.036349000001792,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 854",
+      "encryptDuration": 12.392908000001626,
+      "decryptDuration": 6.920582999999169,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 855",
+      "encryptDuration": 11.224100999999791,
+      "decryptDuration": 6.937072000000626,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 856",
+      "encryptDuration": 12.455065000001923,
+      "decryptDuration": 6.9953999999997905,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 857",
+      "encryptDuration": 11.466131000001042,
+      "decryptDuration": 6.983347999994294,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 858",
+      "encryptDuration": 11.944777000004251,
+      "decryptDuration": 7.011991999999736,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 859",
+      "encryptDuration": 11.206612999994832,
+      "decryptDuration": 7.230167000001529,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 860",
+      "encryptDuration": 11.373081999998249,
+      "decryptDuration": 6.926995000001625,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 861",
+      "encryptDuration": 11.64280499999586,
+      "decryptDuration": 6.763022999999521,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 862",
+      "encryptDuration": 11.236907999998948,
+      "decryptDuration": 6.802319000002171,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 863",
+      "encryptDuration": 12.553161999996519,
+      "decryptDuration": 7.484934000000067,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 864",
+      "encryptDuration": 13.030807000002824,
+      "decryptDuration": 6.801934999995865,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 865",
+      "encryptDuration": 11.048999999999069,
+      "decryptDuration": 7.256677999997919,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 866",
+      "encryptDuration": 11.160843000005116,
+      "decryptDuration": 6.798505999999179,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 867",
+      "encryptDuration": 12.57219299999997,
+      "decryptDuration": 6.803268999996362,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 868",
+      "encryptDuration": 11.428348000001279,
+      "decryptDuration": 6.913214000000153,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 869",
+      "encryptDuration": 12.240587000000232,
+      "decryptDuration": 6.821145000001707,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 870",
+      "encryptDuration": 11.143255000002682,
+      "decryptDuration": 6.875553999998374,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 871",
+      "encryptDuration": 11.956705999997212,
+      "decryptDuration": 6.638457000000926,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 872",
+      "encryptDuration": 11.066044999999576,
+      "decryptDuration": 7.101871999999275,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 873",
+      "encryptDuration": 10.905680999996548,
+      "decryptDuration": 6.781604999996489,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 874",
+      "encryptDuration": 11.919215000001714,
+      "decryptDuration": 6.713507000000391,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 875",
+      "encryptDuration": 11.150008000004163,
+      "decryptDuration": 6.680986999999732,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 876",
+      "encryptDuration": 12.742934000001696,
+      "decryptDuration": 7.304007999999158,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 877",
+      "encryptDuration": 13.060068999999203,
+      "decryptDuration": 6.664192000003823,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 878",
+      "encryptDuration": 11.1373339999991,
+      "decryptDuration": 7.345607999995991,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 879",
+      "encryptDuration": 11.285078000000794,
+      "decryptDuration": 6.796044000002439,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 880",
+      "encryptDuration": 12.040954000003694,
+      "decryptDuration": 6.733194000000367,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 881",
+      "encryptDuration": 11.279828999999154,
+      "decryptDuration": 6.665184999998019,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 882",
+      "encryptDuration": 12.153355999995256,
+      "decryptDuration": 6.545626999999513,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 883",
+      "encryptDuration": 10.877808999997796,
+      "decryptDuration": 6.73832499999844,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 884",
+      "encryptDuration": 11.820872999996936,
+      "decryptDuration": 6.61956199999986,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 885",
+      "encryptDuration": 10.950930000006338,
+      "decryptDuration": 6.950226000000839,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 886",
+      "encryptDuration": 11.186529999999038,
+      "decryptDuration": 6.572727999999188,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 887",
+      "encryptDuration": 11.632119999994757,
+      "decryptDuration": 6.550719999999274,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 888",
+      "encryptDuration": 10.893921000002592,
+      "decryptDuration": 6.443155000000843,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 889",
+      "encryptDuration": 12.676340999998502,
+      "decryptDuration": 7.125430000000051,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 890",
+      "encryptDuration": 12.628952999999456,
+      "decryptDuration": 6.521022000000812,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 891",
+      "encryptDuration": 11.031772000002093,
+      "decryptDuration": 6.977437000001373,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 892",
+      "encryptDuration": 10.86294800000178,
+      "decryptDuration": 6.506766999998945,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 893",
+      "encryptDuration": 11.901621999997587,
+      "decryptDuration": 6.422593000002962,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 894",
+      "encryptDuration": 10.932354999997187,
+      "decryptDuration": 6.335705000004964,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 895",
+      "encryptDuration": 11.56343200000265,
+      "decryptDuration": 6.635996000004525,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 896",
+      "encryptDuration": 10.916775999998208,
+      "decryptDuration": 6.501388999997289,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 897",
+      "encryptDuration": 11.782010000002629,
+      "decryptDuration": 6.422965999998269,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 898",
+      "encryptDuration": 10.545161000001826,
+      "decryptDuration": 6.665586000002804,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 899",
+      "encryptDuration": 10.93445100000099,
+      "decryptDuration": 6.4105320000016945,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 900",
+      "encryptDuration": 11.69156600000133,
+      "decryptDuration": 6.4294970000046305,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 901",
+      "encryptDuration": 10.877865999995265,
+      "decryptDuration": 6.333838999998989,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 902",
+      "encryptDuration": 12.513762000002316,
+      "decryptDuration": 7.048612999999023,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 903",
+      "encryptDuration": 12.918610000000626,
+      "decryptDuration": 6.393520999998145,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 904",
+      "encryptDuration": 10.823162000000593,
+      "decryptDuration": 6.7966359999991255,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 905",
+      "encryptDuration": 10.73945200000162,
+      "decryptDuration": 6.447788999998011,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 906",
+      "encryptDuration": 11.432514000000083,
+      "decryptDuration": 6.418563999999606,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 907",
+      "encryptDuration": 10.792476000002353,
+      "decryptDuration": 6.292524999997113,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 908",
+      "encryptDuration": 11.563779999996768,
+      "decryptDuration": 6.297712999999931,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 909",
+      "encryptDuration": 10.523497000001953,
+      "decryptDuration": 6.273336999998719,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 910",
+      "encryptDuration": 11.554344000003766,
+      "decryptDuration": 6.14312400000199,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 911",
+      "encryptDuration": 10.474941000000399,
+      "decryptDuration": 6.496361999998044,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 912",
+      "encryptDuration": 10.658435000004829,
+      "decryptDuration": 6.134378999995533,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 913",
+      "encryptDuration": 11.329358000002685,
+      "decryptDuration": 6.246534999998403,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 914",
+      "encryptDuration": 10.45442699999694,
+      "decryptDuration": 6.122980000000098,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 915",
+      "encryptDuration": 11.800780999998096,
+      "decryptDuration": 6.103764999999839,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 916",
+      "encryptDuration": 10.345782000003965,
+      "decryptDuration": 6.211511000001337,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 917",
+      "encryptDuration": 12.242442000002484,
+      "decryptDuration": 6.856345000000147,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 918",
+      "encryptDuration": 12.684869000004255,
+      "decryptDuration": 6.193192000006093,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 919",
+      "encryptDuration": 10.634533000004012,
+      "decryptDuration": 6.52459899999667,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 920",
+      "encryptDuration": 10.696830000000773,
+      "decryptDuration": 6.149087000005238,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 921",
+      "encryptDuration": 11.341350000002421,
+      "decryptDuration": 6.149616000002425,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 922",
+      "encryptDuration": 10.387756999996782,
+      "decryptDuration": 6.114383000000089,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 923",
+      "encryptDuration": 11.429607999998552,
+      "decryptDuration": 6.041636000001745,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 924",
+      "encryptDuration": 10.256173000001581,
+      "decryptDuration": 5.9962220000015805,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 925",
+      "encryptDuration": 11.314251000003424,
+      "decryptDuration": 6.05216400000063,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 926",
+      "encryptDuration": 10.487291999997979,
+      "decryptDuration": 6.432596000006015,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 927",
+      "encryptDuration": 10.325066999997944,
+      "decryptDuration": 6.026395000000775,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 928",
+      "encryptDuration": 11.189861999999266,
+      "decryptDuration": 6.135258999995131,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 929",
+      "encryptDuration": 10.226416999998037,
+      "decryptDuration": 5.932133000002068,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 930",
+      "encryptDuration": 11.434573999998975,
+      "decryptDuration": 5.987049000003026,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 931",
+      "encryptDuration": 10.358574999998382,
+      "decryptDuration": 6.0940669999981765,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 932",
+      "encryptDuration": 11.956702999996196,
+      "decryptDuration": 6.591676000003645,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 933",
+      "encryptDuration": 12.329627999999502,
+      "decryptDuration": 6.0604329999987385,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 934",
+      "encryptDuration": 10.288532999999006,
+      "decryptDuration": 6.279954999998154,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 935",
+      "encryptDuration": 10.43961099999433,
+      "decryptDuration": 5.934388000001491,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 936",
+      "encryptDuration": 11.164650000006077,
+      "decryptDuration": 6.232793000002857,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 937",
+      "encryptDuration": 10.492648999999801,
+      "decryptDuration": 5.948959000001196,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 938",
+      "encryptDuration": 11.391403999994509,
+      "decryptDuration": 5.860162999997556,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 939",
+      "encryptDuration": 10.497877000001608,
+      "decryptDuration": 5.972057999999379,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 940",
+      "encryptDuration": 11.012776000003214,
+      "decryptDuration": 6.03175999999803,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 941",
+      "encryptDuration": 10.147001999997883,
+      "decryptDuration": 6.1818759999951,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 942",
+      "encryptDuration": 10.245736999997462,
+      "decryptDuration": 5.815063000001828,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 943",
+      "encryptDuration": 10.835004000000481,
+      "decryptDuration": 5.833096999995178,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 944",
+      "encryptDuration": 10.089929000001575,
+      "decryptDuration": 5.737444999998843,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 945",
+      "encryptDuration": 11.184003000002122,
+      "decryptDuration": 5.826989000001049,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 946",
+      "encryptDuration": 10.18127299999469,
+      "decryptDuration": 5.741548999998486,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 947",
+      "encryptDuration": 10.877607999995234,
+      "decryptDuration": 5.648216000001412,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 948",
+      "encryptDuration": 10.233895999997912,
+      "decryptDuration": 5.764797999996517,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 949",
+      "encryptDuration": 11.900510999999824,
+      "decryptDuration": 6.391746000001149,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 950",
+      "encryptDuration": 11.880262999999104,
+      "decryptDuration": 5.6718869999967865,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 951",
+      "encryptDuration": 9.892519000000902,
+      "decryptDuration": 6.02234199999657,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 952",
+      "encryptDuration": 9.962570000003325,
+      "decryptDuration": 5.58016299999872,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 953",
+      "encryptDuration": 10.804795999996713,
+      "decryptDuration": 5.725908000000345,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 954",
+      "encryptDuration": 10.103732999996282,
+      "decryptDuration": 5.644059999998717,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 955",
+      "encryptDuration": 10.82235600000422,
+      "decryptDuration": 5.566711999999825,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 956",
+      "encryptDuration": 10.02558300000237,
+      "decryptDuration": 5.5332550000021,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 957",
+      "encryptDuration": 10.51174699999683,
+      "decryptDuration": 5.547362999997858,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 958",
+      "encryptDuration": 10.034474000000046,
+      "decryptDuration": 5.8132429999968736,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 959",
+      "encryptDuration": 9.790625000001455,
+      "decryptDuration": 5.547000000005937,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 960",
+      "encryptDuration": 10.415920999999798,
+      "decryptDuration": 5.441479000000982,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 961",
+      "encryptDuration": 9.771163999997952,
+      "decryptDuration": 5.551304000000528,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 962",
+      "encryptDuration": 10.773004000002402,
+      "decryptDuration": 5.423814999994647,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 963",
+      "encryptDuration": 9.740003999999317,
+      "decryptDuration": 5.362489999999525,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 964",
+      "encryptDuration": 10.43022000000201,
+      "decryptDuration": 5.319661000001361,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 965",
+      "encryptDuration": 9.766166999994311,
+      "decryptDuration": 5.435932000000321,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 966",
+      "encryptDuration": 10.469012000001385,
+      "decryptDuration": 5.23520400000416,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 967",
+      "encryptDuration": 9.6070550000004,
+      "decryptDuration": 5.616587999997137,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 968",
+      "encryptDuration": 9.667321000000811,
+      "decryptDuration": 5.26130400000693,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 969",
+      "encryptDuration": 10.481933000002755,
+      "decryptDuration": 5.354409999999916,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 970",
+      "encryptDuration": 9.6098159999965,
+      "decryptDuration": 5.2111299999960465,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 971",
+      "encryptDuration": 11.064999999995052,
+      "decryptDuration": 5.877835999999661,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 972",
+      "encryptDuration": 12.008692000003066,
+      "decryptDuration": 5.311037999999826,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 973",
+      "encryptDuration": 9.47905300000275,
+      "decryptDuration": 5.617864000007103,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 974",
+      "encryptDuration": 9.818391000000702,
+      "decryptDuration": 5.229810999997426,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 975",
+      "encryptDuration": 10.825613000000885,
+      "decryptDuration": 5.168447000003653,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 976",
+      "encryptDuration": 9.477440000002389,
+      "decryptDuration": 5.078822000003129,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 977",
+      "encryptDuration": 9.954334000001836,
+      "decryptDuration": 5.117663999997603,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 978",
+      "encryptDuration": 9.478830000000016,
+      "decryptDuration": 5.034789999997884,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 979",
+      "encryptDuration": 9.842698000000382,
+      "decryptDuration": 5.042652000003727,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 980",
+      "encryptDuration": 9.483896999998251,
+      "decryptDuration": 5.378656000000774,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 981",
+      "encryptDuration": 9.317181999998866,
+      "decryptDuration": 5.0302560000054655,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 982",
+      "encryptDuration": 9.632489000003261,
+      "decryptDuration": 4.930221000002348,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 983",
+      "encryptDuration": 9.185647000005702,
+      "decryptDuration": 4.896172000000661,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 984",
+      "encryptDuration": 9.841496000000916,
+      "decryptDuration": 4.9714139999996405,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 985",
+      "encryptDuration": 9.314845000000787,
+      "decryptDuration": 5.029619000000821,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 986",
+      "encryptDuration": 10.239529999998922,
+      "decryptDuration": 4.806648000005225,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 987",
+      "encryptDuration": 9.103632999998808,
+      "decryptDuration": 4.886748000004445,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 988",
+      "encryptDuration": 9.951877999999851,
+      "decryptDuration": 4.805993999994826,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 989",
+      "encryptDuration": 9.033720999999787,
+      "decryptDuration": 5.187727999997151,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 990",
+      "encryptDuration": 9.270390999998199,
+      "decryptDuration": 4.881914999998116,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 991",
+      "encryptDuration": 9.737904000001436,
+      "decryptDuration": 4.8764440000013565,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 992",
+      "encryptDuration": 9.21876699999848,
+      "decryptDuration": 4.882481000000553,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 993",
+      "encryptDuration": 10.064570000002277,
+      "decryptDuration": 4.805036000005202,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 994",
+      "encryptDuration": 9.094127000003937,
+      "decryptDuration": 4.715918000001693,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 995",
+      "encryptDuration": 9.563188000000082,
+      "decryptDuration": 4.781176000004052,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 996",
+      "encryptDuration": 9.147908999999345,
+      "decryptDuration": 4.991742999998678,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 997",
+      "encryptDuration": 9.02759800000058,
+      "decryptDuration": 4.67779700000392,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 998",
+      "encryptDuration": 9.231995999994979,
+      "decryptDuration": 4.58874300000025,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 999",
+      "encryptDuration": 8.927173000003677,
+      "decryptDuration": 4.5558620000010706,
+      "status": "success"
+    },
+    {
+      "fileId": "Record 1000",
+      "encryptDuration": 10.385657999999239,
+      "decryptDuration": 5.1622930000012275,
+      "status": "success"
+    }
+  ]
+}
