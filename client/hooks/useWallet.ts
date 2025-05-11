@@ -2,6 +2,11 @@
 import { createWalletClient, custom } from 'viem';
 import { avalancheFuji } from 'viem/chains';
 
+declare global {
+  interface Window {
+    ethereum?: any;
+  }
+}
 
 
 export const useWallet = () => {
