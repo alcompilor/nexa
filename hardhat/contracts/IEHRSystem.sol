@@ -58,7 +58,7 @@ interface IEHRSystem {
     /// @notice Emitted when oracles respond to share requests
     event KeySharesResponse(
         bytes16 indexed requestId,
-        EncryptedShare[2] reEncryptedKeyShares,
+        EncryptedShare[1] reEncryptedKeyShare,
         bool isSuccess
     );
 }
