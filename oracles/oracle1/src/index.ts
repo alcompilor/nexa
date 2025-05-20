@@ -182,11 +182,7 @@ const reEncryptKeyShare = (
  * @returns {Array} - The payload array
  */
 const createPayload = (shareData: any): Array<any> => {
-    // Creating two identical entries with role 3
-    return [
-        { role: 3, ...shareData },
-        { role: 3, ...shareData },
-    ];
+    return [{ role: 3, ...shareData }];
 };
 
 /**
