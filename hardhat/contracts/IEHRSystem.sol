@@ -24,7 +24,7 @@ interface IEHRSystem {
     /// @dev Contains all components needed for secure share transmission
     struct EncryptedShare {
         Role role; // Recipient role
-        bytes32 encryptedKeyShare; // ChaCha20-encrypted secret share
+        bytes encryptedKeyShare; // ChaCha20-encrypted secret share
         bytes32 ephemeralPublicKey; // ECDH ephemeral public key
         bytes12 nonce; // Encryption nonce
         bytes16 authTag; // Poly1305 authentication tag

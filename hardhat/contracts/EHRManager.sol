@@ -75,12 +75,7 @@ contract EHRManager is RoleBase {
     /// @return Latest EHR record
     function getLatestRecord(
         address _patientAddress
-    )
-        external
-        view
-        onlyAuthorizedPhysicianOrPatient(_patientAddress)
-        returns (Record memory)
-    {
+    ) external view returns (Record memory) {
         require(
             patientToRecordsCount[_patientAddress] > 0,
             "Error: No records found"
@@ -98,12 +93,7 @@ contract EHRManager is RoleBase {
     function getRecord(
         address _patientAddress,
         uint32 _recordNumber
-    )
-        external
-        view
-        onlyAuthorizedPhysicianOrPatient(_patientAddress)
-        returns (Record memory)
-    {
+    ) external view returns (Record memory) {
         require(
             _recordNumber < patientToRecordsCount[_patientAddress],
             "Error: Invalid record number"
@@ -116,12 +106,7 @@ contract EHRManager is RoleBase {
     /// @return Number of stored records
     function getRecordCount(
         address _patientAddress
-    )
-        external
-        view
-        onlyAuthorizedPhysicianOrPatient(_patientAddress)
-        returns (uint32)
-    {
+    ) external view returns (uint32) {
         return patientToRecordsCount[_patientAddress];
     }
 }
