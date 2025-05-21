@@ -7,16 +7,16 @@ import "./IEHRSystem.sol";
 /// @notice Provides foundational role checking and validation functionality
 abstract contract RoleBase is IEHRSystem {
     /// @notice Current hospital administrator address
-    address public hospital;
+    address internal hospital;
 
     /// @notice Array of 2 oracle agents
     Agent[2] internal oracles;
 
     /// @notice Mapping of addresses to agent profiles
-    mapping(address => Agent) public addressToAgent;
+    mapping(address => Agent) internal addressToAgent;
 
     /// @notice Mapping of physician authorization status
-    mapping(address => bool) public authorizedPhysiciansByHospital;
+    mapping(address => bool) internal authorizedPhysiciansByHospital;
 
     /// @dev Restrict to active registered agents
     modifier onlyActiveAgent() {

@@ -140,16 +140,22 @@ contract RoleManager is RoleBase {
     /// @param _patient Patient address
     /// @return Array of 5 agents: [physician, patient, hospital, oracle1, oracle2]
     function getAgents(
-        address _patient
-    ) external view onlyAuthorizedPhysician returns (Agent[] memory) {
+        address _patient,
+        address _physician
+    ) external view returns (Agent[] memory) {
         require(
             addressToAgent[_patient].isActive &&
                 addressToAgent[_patient].role == Role.PATIENT,
             "Error: Invalid patient address"
         );
+        require(
+            addressToAgent[_physician].isActive &&
+                addressToAgent[_physician].role == Role.PHYSICIAN,
+            "Error: Invalid physician address"
+        );
 
         Agent[] memory agents = new Agent[](5);
-        agents[0] = addressToAgent[msg.sender]; // Physician
+        agents[0] = addressToAgent[_physician]; // Physician
         agents[1] = addressToAgent[_patient]; // Patient
         agents[2] = addressToAgent[hospital]; // Hospital
         agents[3] = oracles[0]; // Oracle 1

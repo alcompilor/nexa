@@ -7,19 +7,23 @@ settings:
 importers:
 
   .:
-    devDependencies:
+    dependencies:
       '@noble/curves':
         specifier: ^1.9.1
         version: 1.9.1
-      '@nomicfoundation/hardhat-toolbox':
-        specifier: ^5.0.0
-        version: 5.0.0(cd58d33bdf6c600385f04166647fd0a5)
-      axios:
-        specifier: ^1.9.0
-        version: 1.9.0
       concurrently:
         specifier: ^9.1.2
         version: 9.1.2
+      viem:
+        specifier: ^2.30.0
+        version: 2.30.0(typescript@5.8.3)
+      wait-on:
+        specifier: ^8.0.3
+        version: 8.0.3
+    devDependencies:
+      '@nomicfoundation/hardhat-toolbox':
+        specifier: ^5.0.0
+        version: 5.0.0(cd58d33bdf6c600385f04166647fd0a5)
       dotenv:
         specifier: ^16.5.0
         version: 16.5.0
@@ -29,20 +33,11 @@ importers:
       typescript:
         specifier: ^5.8.3
         version: 5.8.3
-      viem:
-        specifier: ^2.30.0
-        version: 2.30.0(typescript@5.8.3)
-      wait-on:
-        specifier: ^8.0.3
-        version: 8.0.3
 
 packages:
 
   '@adraffy/ens-normalize@1.10.1':
     resolution: {integrity: sha512-96Z2IP3mYmF1Xg2cDm8f1gWGf/HUVedQ3FMifV4kG/PQ4yEP51xDtRAEfhVNt5f/uzpNkZHwWQuUcu6D6K+Ekw==}
-
-  '@adraffy/ens-normalize@1.11.0':
-    resolution: {integrity: sha512-/3DDPKHqqIqxUULp8yP4zODUY1i+2xvVWsv8A79xGWdCAG+8sb0hRh0Rk2QyOJUnnbyPUAZYcpBuRe3nS2OIUg==}
 
   '@cspotcode/source-map-support@0.8.1':
     resolution: {integrity: sha512-IchNf6dN4tHoMFIn/7OE8LWZ19Y6q/67Bmf6vnGREv8RSbBVb9LPJxEcnwrcwX6ixSvaiGoomAUvu4YSxXrVgw==}
@@ -1965,9 +1960,6 @@ packages:
   tslib@2.7.0:
     resolution: {integrity: sha512-gLXCKdN1/j47AiHiOkJN69hJmcbGTHI0ImLmbYLHykhgeN0jVGola9yVjFgzCUklsZQMW55o+dW7IXv3RCXDzA==}
 
-  tslib@2.8.1:
-    resolution: {integrity: sha512-oJFu94HQb+KVduSUQL7wnpmqnfmLsOA/nAh6b6EH0wCEoK0/mPeXU6c3wKDV83MkOuHPRHtSXKKU99IBazS/2w==}
-
   tsort@0.0.1:
     resolution: {integrity: sha512-Tyrf5mxF8Ofs1tNoxA13lFeZ2Zrbd6cKbuH3V+MQ5sb6DtBj5FjrXVsRWT8YvNAQTqNoz66dz1WsbigI22aEnw==}
 
@@ -2182,8 +2174,6 @@ packages:
 snapshots:
 
   '@adraffy/ens-normalize@1.10.1': {}
-
-  '@adraffy/ens-normalize@1.11.0': {}
 
   '@cspotcode/source-map-support@0.8.1':
     dependencies:
@@ -4043,9 +4033,9 @@ snapshots:
 
   ox@0.6.9(typescript@5.8.3):
     dependencies:
-      '@adraffy/ens-normalize': 1.11.0
+      '@adraffy/ens-normalize': 1.10.1
       '@noble/curves': 1.9.1
-      '@noble/hashes': 1.7.2
+      '@noble/hashes': 1.8.0
       '@scure/bip32': 1.6.2
       '@scure/bip39': 1.5.4
       abitype: 1.0.8(typescript@5.8.3)
@@ -4204,7 +4194,7 @@ snapshots:
 
   rxjs@7.8.2:
     dependencies:
-      tslib: 2.8.1
+      tslib: 2.7.0
 
   safe-buffer@5.1.2: {}
 
@@ -4511,8 +4501,6 @@ snapshots:
   tslib@1.14.1: {}
 
   tslib@2.7.0: {}
-
-  tslib@2.8.1: {}
 
   tsort@0.0.1: {}
 
