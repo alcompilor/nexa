@@ -38,16 +38,16 @@ contract EHRManager is RoleBase {
         );
     }
 
-    /// @notice Submit re-encrypted oracle shares
+    /// @notice Submit re-encrypted oracle share
     /// @param _requestId Original request identifier
     /// @param _isSuccess Operation status
-    /// @param _reEncryptedKeyShares Processed oracle shares
+    /// @param _reEncryptedKeyShare Processed oracle share
     function submitReEncryptedShare(
         bytes16 _requestId,
         bool _isSuccess,
-        EncryptedShare[2] calldata _reEncryptedKeyShares
+        EncryptedShare[1] calldata _reEncryptedKeyShare
     ) external {
-        emit KeySharesResponse(_requestId, _reEncryptedKeyShares, _isSuccess);
+        emit KeySharesResponse(_requestId, _reEncryptedKeyShare, _isSuccess);
     }
 
     /// @notice Add new EHR record for patient
