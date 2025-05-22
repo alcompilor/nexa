@@ -83,6 +83,16 @@ export async function writeToContract({
             account,
         });
 
+        const receipt = await publicClient.waitForTransactionReceipt({
+            hash: txHash,
+        });
+
+        if (receipt.status !== "success") {
+            throw new Error(
+                `Transaction failed with status: ${receipt.status}`
+            );
+        }
+
         return txHash;
     } catch (error) {
         console.error("❌ writeToContract error:", error);
