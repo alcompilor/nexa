@@ -11,7 +11,7 @@ export const AddPatient = () => {
     const [message, setMessage] = useState<string>("");
     const [showLoader, setShowLoader] = useState<boolean>(false);
 
-    const { setPrivKey, clearPrivKey } = usePatientPrivKeyStore();
+    const { setPrivKey } = usePatientPrivKeyStore();
 
     const handleInput = (e: React.ChangeEvent<HTMLInputElement>) => {
         const { name, value } = e.target;

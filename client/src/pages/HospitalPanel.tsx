@@ -21,7 +21,7 @@ export const HospitalPanel = () => {
                         <RevokePhysician />
                     </SectionCard>
 
-                    <SectionCard title="Update Oracle">
+                    <SectionCard title="Update Oracle Public Keys">
                         <UpdateOracle />
                     </SectionCard>
 

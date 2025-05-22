@@ -1,10 +1,12 @@
 import { useState } from "react";
 import { writeToContract } from "../lib/viemHelpers";
+import spinner from "../assets/spinner.svg";
 
 export const AddPhysician = () => {
     const [physicianAddress, setPhysicianAddress] = useState<string>("");
     const [physicianPubKey, setPhysicianPubKey] = useState<string>("");
     const [message, setMessage] = useState<string>("");
+    const [showLoader, setShowLoader] = useState<boolean>(false);
 
     const handleInput = (e: React.ChangeEvent<HTMLInputElement>) => {
         const { name, value } = e.target;
@@ -15,25 +17,29 @@ export const AddPhysician = () => {
     const handleButton = async () => {
         if (physicianAddress && physicianPubKey) {
             try {
+                setShowLoader(true);
                 const txHash = await writeToContract({
                     functionName: "addPhysician",
                     args: [physicianAddress, physicianPubKey],
                 });
 
                 setMessage(
-                    `Physician Successfully Authorized - TxHash: ${txHash}`
+                    `Physician Successfully Authorized | Receipt: ${txHash}`
                 );
-                return;
             } catch (error: unknown) {
                 setMessage(`${error}`);
             }
         } else {
-            setMessage("Invalid input values!");
+            setMessage(
+                "Some inputs are invalid. Make sure all fields are filled out correctly."
+            );
         }
+        setShowLoader(false);
     };
 
     return (
         <div className="max-w-md mx-auto p-2 bg-white rounded-2xl mt-5">
+            {showLoader && <img src={spinner} className="w-20" />}
             <p className="text-sm text-gray-600 mb-6 text-center break-words">
                 {message}
             </p>
@@ -49,7 +55,7 @@ export const AddPhysician = () => {
                 <input
                     type="text"
                     name="physicianPubKey"
-                    placeholder="Physician ECDH X25519 Public Key"
+                    placeholder="Physician ECDH X25519 Public Key (with 0x prefix)"
                     value={physicianPubKey}
                     onChange={handleInput}
                     className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
