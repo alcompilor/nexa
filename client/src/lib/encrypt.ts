@@ -22,7 +22,7 @@ export async function uploadRecord(patientAddress: `0x${string}`) {
         })
     ).map((agent: any) => ({
         ...agent,
-        publicKey: agent.publicKey.split("0x")[1],
+        publicKey: agent.publicKey.startsWith("0x") ? agent.publicKey.slice(2) : agent.publicKey
     }));
 
     const fileKey = randomBytes(32);
@@ -35,8 +35,7 @@ export async function uploadRecord(patientAddress: `0x${string}`) {
     const authTag = encryptedContent.slice(-16);
     const ciphertext = encryptedContent.slice(0, -16);
 
-    // const shares = await split(fileKey, 5, 3);
-    const shares = (await split(fileKey, 5, 3)).map((share) => share.slice(1));
+    const shares = await split(fileKey, 5, 3);
 
     const encryptedShares = await Promise.all(
         agents.map(async (agent, index) => {
