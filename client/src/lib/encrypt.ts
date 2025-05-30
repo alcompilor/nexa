@@ -9,6 +9,8 @@ import { split } from "shamir-secret-sharing";
 import { x25519 } from "@noble/curves/ed25519";
 import { toHex, hexToBytes } from "viem";
 import { sha256 } from "@noble/hashes/sha2";
+import { ipfs } from "./ipfsClient";
+import { CID } from "multiformats/cid";
 
 // Strongly typed
 type Agent = {
@@ -81,17 +83,27 @@ export async function uploadRecord(patientAddress: `0x${string}`) {
   );
 
   // still need to implement IPFS logic later here
+  async function uploadToIPFS(data: Uint8Array): Promise<string> {
+    const result = await ipfs.add(data);
+    return result.cid.toString(); // e.g. "bafy..."
+  }
+  
+  function cidToBytes(cidStr: string): Uint8Array {
+    return CID.parse(cidStr).bytes;
+  }
+  
 
+  const cidString = await uploadToIPFS(ciphertext); //  Upload encrypted file
+  const cidBytes = cidToBytes(cidString);          //  Convert to Uint8Array
 
-  const placeholderCid = toHex(randomBytes(64)); // temporary CID placeholder
 
   const record = [
-    placeholderCid,       // bytes contentId
-    encryptedShares,      // EncryptedShare[5]
-    toHex(fileNonce),     // bytes12
-    toHex(authTag),       // bytes16
+    toHex(cidBytes),       // Real CID (bytes)
+    encryptedShares,
+    toHex(fileNonce),
+    toHex(authTag),
   ];
-
+  
   const txHash = await writeToContract({
     functionName: "addRecord",
     args: [patientAddress, record],
