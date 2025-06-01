@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 // viemHelpers.ts
 
 import { createPublicClient, createWalletClient, http, custom } from "viem";
