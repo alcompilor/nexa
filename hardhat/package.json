@@ -1,0 +1,27 @@
+{
+  "name": "hardhat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "node": "npx hardhat node",
+    "test": "wait-on http://localhost:8545 && npx hardhat test",
+    "test:with-node": "concurrently -k -s first -n node,test \"npm run node\" \"npm run test\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "dotenv": "^16.5.0",
+    "hardhat": "^2.24.0",
+    "typescript": "^5.8.3"
+  },
+  "packageManager": "pnpm@10.10.0+sha512.d615db246fe70f25dcfea6d8d73dee782ce23e2245e3c4f6f888249fb568149318637dca73c2c5c8ef2a4ca0d5657fb9567188bfab47f566d1ee6ce987815c39",
+  "dependencies": {
+    "@noble/curves": "^1.9.1",
+    "concurrently": "^9.1.2",
+    "viem": "^2.30.0",
+    "wait-on": "^8.0.3"
+  }
+}

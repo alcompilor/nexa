@@ -1,0 +1,11 @@
+=== Benchmark Summary ===
+
+    Encryption:
+        Min: 8.93 ms
+        Max: 405.61 ms
+        Mean: 24.56 ms
+
+    Decryption:
+        Min: 4.56 ms
+        Max: 379.38 ms
+        Mean: 19.16 ms
