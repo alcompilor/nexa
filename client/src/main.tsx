@@ -4,14 +4,10 @@ import "./index.css";
 import App from "./App.tsx";
 
 // Polyfills for secrets.js-grempe
-import { Buffer } from 'buffer';
+import { Buffer } from "buffer";
 (window as any).Buffer = Buffer;
 
-import process from 'process';
+import process from "process";
 (window as any).process = process;
 
-createRoot(document.getElementById("root")!).render(
-    <StrictMode>
-        <App />
-    </StrictMode>
-);
+createRoot(document.getElementById("root")!).render(<App />);

@@ -100,3 +100,29 @@ export async function writeToContract({
         throw error;
     }
 }
+
+export const watchKeyResponseEvent = (
+    requestId: `0x{string}`
+): Promise<string[]> => {
+    return new Promise((resolve) => {
+        const reEncryptedShares = new Set<string>();
+
+        const unwatch = publicClient.watchContractEvent({
+            address: contractAddress,
+            abi: contractABI,
+            eventName: "KeySharesResponse",
+            onLogs: (logs) => {
+                logs.forEach((log: any) => {
+                    if (log.args.requestId === requestId) {
+                        reEncryptedShares.add(log.args.reEncryptedKeyShare[0]);
+                    }
+                });
+
+                if (reEncryptedShares.size === 2) {
+                    unwatch();
+                    resolve(Array.from(reEncryptedShares));
+                }
+            },
+        });
+    });
+};

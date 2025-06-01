@@ -1,84 +1,86 @@
-import { connectWallet, readFromContract } from "./viemHelpers";
+/* eslint-disable @typescript-eslint/no-explicit-any */
+import {
+    connectWallet,
+    readFromContract,
+    watchKeyResponseEvent,
+    writeToContract,
+} from "./viemHelpers";
 import { combine } from "shamir-secret-sharing";
 import { x25519 } from "@noble/curves/ed25519";
 import { chacha20poly1305 } from "@noble/ciphers/chacha";
-import { fromHex } from "viem";
+import { concat, fromHex, toHex } from "viem";
+import { usePatientPrivKeyStore } from "../stores/usePatientPrivKeyStore";
+import { ipfsRetrieve } from "./ipfsClient";
 
-const patientAddress: `0x${string}` = "0xYourPatientAddressHere";
-const recordIndex = 0;
+export async function fetchRecord(recordIndex?: number) {
+    const patientPrivKey = usePatientPrivKeyStore.getState().privKey;
+    const requestId = generateRandomId() as `0x{string}`;
+    const { account: patientAddress } = await connectWallet();
 
-export async function decryptRecord() {
-  const { account: userAddress } = await connectWallet();
+    const record = recordIndex
+        ? await readFromContract<any>({
+              functionName: "getRecord",
+              args: [patientAddress, recordIndex],
+          })
+        : await readFromContract<any>({
+              functionName: "getLatestRecord",
+              args: [patientAddress],
+          });
 
-  const record = await readFromContract<any>({
-    functionName: "getRecord",
-    args: [patientAddress, recordIndex],
-  });
+    await writeToContract({
+        functionName: "requestOracleAssistance",
+        args: [requestId, record],
+    });
 
-  const [cid, encryptedShares, fileNonceHex, authTagHex] = record;
+    const encryptedShares = await watchKeyResponseEvent(requestId);
+    encryptedShares.push(
+        record.encryptedKeyShares.find((share: any) => share.role === 1)
+    );
 
-  const userPrivateKey = getPrivateKey();
-  const decryptedShares: Uint8Array[] = [];
+    const rawKeyShares = encryptedShares.map((share: any) => {
+        const authTagBytes = fromHex(share.authTag, "bytes");
+        const encryptedKeyShareBytes = fromHex(
+            share.encryptedKeyShare,
+            "bytes"
+        );
 
-  for (const share of encryptedShares) {
-    const [role, shareCiphertextHex, ephemeralPubHex, shareNonceHex, shareAuthTagHex] = share;
+        const nonceBytes = fromHex(share.nonce, "bytes");
+        const ephemeralPublicKeyHex = share.ephemeralPublicKey.slice(2);
 
-    const ephemeralPublicKey = fromHex(ensureHex(ephemeralPubHex), 'bytes');
-    const shareNonce = fromHex(ensureHex(shareNonceHex), 'bytes');
-    const shareCiphertext = fromHex(ensureHex(shareCiphertextHex), 'bytes');
-    const shareAuthTag = fromHex(ensureHex(shareAuthTagHex), 'bytes');
+        const sharedSecret = x25519
+            .getSharedSecret(patientPrivKey!, ephemeralPublicKeyHex)
+            .slice(0, 32);
 
-    const encrypted = new Uint8Array([...shareCiphertext, ...shareAuthTag]);
+        const ciphertextWithTag = concat([
+            encryptedKeyShareBytes,
+            authTagBytes,
+        ]);
 
-    try {
-      const sharedSecret = x25519
-        .getSharedSecret(userPrivateKey, ephemeralPublicKey)
-        .slice(0, 32);
+        const cipher = chacha20poly1305(sharedSecret, nonceBytes);
+        const decryptedShare = cipher.decrypt(ciphertextWithTag);
 
-      const shareCipher = chacha20poly1305(sharedSecret, shareNonce);
-      const decryptedShare = shareCipher.decrypt(encrypted);
+        return decryptedShare;
+    });
 
-      decryptedShares.push(new Uint8Array([0, ...decryptedShare]));
+    const fileKey = await combine(rawKeyShares);
+    const fileDataInBytes = await ipfsRetrieve(
+        fromHex(record.contentId, "string")
+    );
 
-      if (decryptedShares.length === 3) break;
-    } catch (err) {
-      console.warn(" Decryption failed for a share:", err);
-    }
-  }
+    const fileAuthTagBytes = fromHex(record.authTag, "bytes");
+    const fileNonceBytes = fromHex(record.nonce, "bytes");
 
-  if (decryptedShares.length < 3) {
-    throw new Error(" Not enough valid shares to reconstruct file key");
-  }
+    const ciphertextWithTag = concat([fileDataInBytes!, fileAuthTagBytes]);
 
-  const fileKey = combine(decryptedShares);
+    const fileCipher = chacha20poly1305(fileKey, fileNonceBytes);
+    const decryptedDataInBytes = fileCipher.decrypt(ciphertextWithTag);
 
-  const encryptedFile = await fetchFromIPFS(cid);
-
-  const fileNonce = fromHex(ensureHex(fileNonceHex), 'bytes');
-  const authTag = fromHex(ensureHex(authTagHex), 'bytes');
-
-  const fileCipher = chacha20poly1305(fileKey, fileNonce);
-  const decrypted = fileCipher.decrypt(new Uint8Array([...encryptedFile, ...authTag]));
-
-  const plainText = new TextDecoder().decode(decrypted);
-  console.log("Decrypted Record:", plainText);
+    const decryptedData = new TextDecoder().decode(decryptedDataInBytes);
+    return decryptedData;
 }
 
-function ensureHex(hex: string): `0x${string}` {
-  return hex.startsWith("0x") ? (hex as `0x${string}`) : `0x${hex}` as `0x${string}`;
+function generateRandomId() {
+    const bytes = new Uint8Array(16);
+    crypto.getRandomValues(bytes);
+    return toHex(bytes);
 }
-
-function getPrivateKey(): Uint8Array {
-  throw new Error(" Replace with real private key for testing");
-}
-
-async function fetchFromIPFS(cid: string): Promise<Uint8Array> {
-  const url = `https://ipfs.io/ipfs/${cid}`;
-  const response = await fetch(url);
-  if (!response.ok) throw new Error(" IPFS fetch failed");
-  const buffer = await response.arrayBuffer();
-  return new Uint8Array(buffer);
-}
-
-// Uncomment if testing from CLI
-// decryptRecord().catch(console.error);
