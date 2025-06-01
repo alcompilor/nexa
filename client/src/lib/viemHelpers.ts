@@ -16,13 +16,13 @@ const publicClient = createPublicClient({
 
 // ✅ Connect MetaMask Wallet
 export async function connectWallet() {
-    if (typeof window === "undefined" || !window.ethereum) {
+    if (typeof window === "undefined" || !(window as any).ethereum) {
         throw new Error("MetaMask is not available");
     }
 
     const walletClient = createWalletClient({
         chain: avalancheFuji,
-        transport: custom(window.ethereum),
+        transport: custom((window as any).ethereum),
     });
 
     const [account] = await walletClient.requestAddresses();

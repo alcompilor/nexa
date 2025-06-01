@@ -51,7 +51,7 @@ export const AccessRecord = () => {
                         name="recordData"
                         value={recordData}
                         disabled={true}
-                        rows={10}
+                        rows={12}
                         className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 cursor-not-allowed bg-gray-100"
                     />
                 )}

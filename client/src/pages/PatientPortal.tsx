@@ -16,7 +16,7 @@ export const PatientPortal = () => {
 
                 <div className="flex flex-col gap-10">
                     {privKey && (
-                        <SectionCard title="Fetch Patient Record">
+                        <SectionCard title="View Record">
                             <AccessRecord />
                         </SectionCard>
                     )}

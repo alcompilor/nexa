@@ -56,10 +56,10 @@ export const AddRecord = () => {
                 />
                 <textarea
                     name="recordData"
-                    placeholder="Patient data goes here...."
+                    placeholder="Describe symptoms, diagnosis, and treatment plan... etc."
                     value={recordData}
                     onChange={handleInput}
-                    rows={10}
+                    rows={12}
                     className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
                 />
                 <button
