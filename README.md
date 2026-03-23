@@ -6,6 +6,7 @@ This repository contains the full prototype implementation accompanying the pape
 
 **"Nexa: Enabling Secure, Scalable and Decentralized Management of Electronic Health Records Using Threshold Cryptography and Public Blockchains"**  
 Ahmed Abbasi, Mohamed N. Humeidi, Qinghua Wang — IEEE Access
+
 DOI: 10.1109/ACCESS.2026.3677499
 
 ---
