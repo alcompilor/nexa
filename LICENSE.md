@@ -42,7 +42,7 @@ If you use this software or build upon this research, please cite:
 A. Abbasi, M. N. Humeidi, and Q. Wang, "Nexa: Enabling Secure, Scalable and
 Decentralized Management of Electronic Health Records Using Threshold Cryptography
 and Public Blockchains," IEEE Access.
-DOI: TBD
+DOI: 10.1109/ACCESS.2026.3677499
 ```
 
 ---
